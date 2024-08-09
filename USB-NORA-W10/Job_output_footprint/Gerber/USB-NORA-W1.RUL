@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Micro-USB-NORA-W1\USB-NORA-W1.PcbDoc
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=NoPlatedPAd|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=TentedVias|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=DIFF_100|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=50_ohm_width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

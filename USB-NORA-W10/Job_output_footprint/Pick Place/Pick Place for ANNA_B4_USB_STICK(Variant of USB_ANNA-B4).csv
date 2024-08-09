@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\dspa\Documents\_Altium\ANNA-B4_USB_STICK\Job_output_footprint\Pick Place\Pick Place for ANNA_B4_USB_STICK(Variant of USB_ANNA-B4).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/04/21
+Time:       09:53
+Revision:   Not in VersionControl
+Variant:    Variant of USB_ANNA-B4
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R2","UBXH18-0008046750R","TopLayer","RES_0402_HD","12.1080","10.0250","270","RES THICK FILM CHIP 0402"
+"R9","UBXH18-000044010K","TopLayer","RES_0402_HD","25.1250","4.0811","90","RES THICK FILM CHIP 0402 10K 5% YAGEO"
+"R4","UBXH18-00080654K7","TopLayer","RES_0402_HD","23.4250","4.0811","270","RES THICK FILM CHIP 0402"
+"R8","UBXH18-00080654K7","TopLayer","RES_0402_HD","24.2750","4.0811","90","RES THICK FILM CHIP 0402"
+"C3","UBXH01-00002434U7","TopLayer","Cap_0402","13.2000","1.9000","270","CAP CER X5R 0402"
+"U4","AP7370-33FDC-7","TopLayer","TRANS_DMN2010UDZ-7","15.0000","1.9000","180","Linear Voltage Regulator IC 1 Output 300mA SOT-25"
+"C13","UBXH01-0000417100N","TopLayer","Cap_0402","12.5750","8.0250","180","CAP CER X5R 0402"
+"R7","UBXH18-0000216360R","TopLayer","RES_0402_HD","29.9318","3.4569","90","RES THICK FILM CHIP 0402"
+"R6","UBXH18-0000216360R","TopLayer","RES_0402_HD","30.8068","3.4569","90","RES THICK FILM CHIP 0402"
+"R3","UBXH18-0008046750R","TopLayer","RES_0402_HD","29.0568","3.4569","90","RES THICK FILM CHIP 0402"
+"D2","UBXH11-0000018","TopLayer","LED-0603","13.4620","10.1980","270","LED CHIP 0603 LOW CURRENT OSRAM 0.002A"
+"D1","TPD2E001DRLR","TopLayer","SOT50P160X60-5N","12.8000","6.2500","0",""
+"U3","LM75BGD,125","TopLayer","PSON50P200X300X50-8N","24.5000","1.9000","360","Digital temperature sensor and thermal watchdog"
+"C11","UBXH01-0000417100N","TopLayer","Cap_0402","26.9000","2.2000","90","CAP CER X5R 0402"
+"C12","UBXH01-0000417100N","TopLayer","Cap_0402","20.9000","9.1075","360","CAP CER X5R 0402"
+"U1","ANNA_B4_OPEN_CPU","TopLayer","SUBLOX_ANNA_LGA56_650X650_MOD","29.4550","7.9000","270","Stand-alone Bluethoth Low energy module"
+"J1","USB-A-PCB_Footprint","TopLayer","USB-A-PCB","5.0524","6.0026","0","PCB_Footprint"
+"F1","UBXH08-0000001","TopLayer","IND_0603_HD","12.1000","2.1000","270","FERRITE BEAD, 0603, 600 OHM AT 100MHZ"
+"R1","UBXH18-0008025100R","TopLayer","RES_0402_HD","14.5000","9.7000","270","RES THICK FILM CHIP 0402"
+"C6","UBXH01-0000417100N","TopLayer","Cap_0402","19.6000","10.6000","270","CAP CER X5R 0402"
+"U2","FT234XD-R","TopLayer","IC_FT234XD-R","16.2000","6.0482","90","USB Bridge, USB to UART USB 2.0 UART Interface 12-DFN (3x3)"
+"SW1","435151014824","TopLayer","435151014824","17.0000","10.2000","360","WS-TASV SMT Tact Switch with ground terminal, 3x2.6x1.4mm, 240gf"
+"D3","APHF1608LSEEQBDZGKC","TopLayer","LED_APHF1608LSEEQBDZGKC","29.9318","1.6500","360","Led Rgb 0603 Smd"
+"C8","UBXH01-0000417100N","TopLayer","Cap_0402","24.0250","10.5500","270","CAP CER X5R 0402"
+"C7","UBXH01-00002434U7","TopLayer","Cap_0402","25.0750","10.5500","270","CAP CER X5R 0402"
+"C5","UBXH01-0000417100N","TopLayer","Cap_0402","12.5000","3.8000","360","CAP CER X5R 0402"
+"C4","UBXH01-0000417100N","TopLayer","Cap_0402","17.7250","3.3500","360","CAP CER X5R 0402"
+"C2","UBXH01-00002434U7","TopLayer","Cap_0402","17.7250","2.3500","360","CAP CER X5R 0402"
+"C1","UBXH01-00002434U7","TopLayer","Cap_0402","17.7250","1.3500","180","CAP CER X5R 0402"
