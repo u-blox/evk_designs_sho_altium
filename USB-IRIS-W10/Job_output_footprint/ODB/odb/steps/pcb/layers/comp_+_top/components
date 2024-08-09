@@ -1,0 +1,2916 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 13 48.08000036 27.97999992 0 N empty_name UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 47.68000116 27.97999992 270 N 94 59 empty_name-1
+TOP 1 48.47999956 27.97999992 270 N 60 20 empty_name-2
+#
+# CMP 1
+CMP 13 36.80000006 22.27000118 90 N empty_name UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 36.80000006 22.67000038 0 N 92 146 empty_name-1
+TOP 1 36.80000006 21.87000198 0 N 1 6 empty_name-2
+#
+# CMP 2
+CMP 13 36.80000006 20.59999944 270 N empty_name UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 36.80000006 20.20000024 180 N 59 3 empty_name-1
+TOP 1 36.80000006 20.99999864 180 N 1 5 empty_name-2
+#
+# CMP 3
+CMP 13 42.7949995 24.00000026 90 N empty_name UNK_Arduino ;0=2,1=6.9500
+PRP Editor 'aneeb.sohail'
+PRP Env 'ROHS'
+PRP Max_Operating_Temp '85°C'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH04-0000717'
+PRP Part_Type 'Connector'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'J'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=35490'
+TOP 0 61.5274995 31.62000026 90 N 33 9 empty_name-1
+TOP 1 58.9874995 31.62000026 90 N 34 9 empty_name-2
+TOP 2 56.4474995 31.62000026 90 N 89 34 empty_name-3
+TOP 3 53.9074995 31.62000026 90 N 92 167 empty_name-4
+TOP 4 51.3674995 31.62000026 90 N 35 9 empty_name-5
+TOP 5 48.8274995 31.62000026 90 N 8 10 empty_name-6
+TOP 6 46.2874995 31.62000026 90 N 75 10 empty_name-7
+TOP 7 43.7474995 31.62000026 90 N 81 9 empty_name-8
+TOP 8 41.2074995 31.62000026 90 N 74 9 empty_name-9
+TOP 9 38.6674995 31.62000026 90 N 50 10 empty_name-10
+TOP 10 36.1274995 31.62000026 90 N 48 10 empty_name-11
+TOP 11 33.5874995 31.62000026 90 N 52 10 empty_name-12
+TOP 12 31.0474995 31.62000026 90 N 46 10 empty_name-13
+TOP 13 28.5074995 31.62000026 90 N 72 9 empty_name-14
+TOP 14 25.9674995 31.62000026 90 N 69 10 empty_name-15
+TOP 15 25.9674995 16.38000026 90 N 71 9 empty_name-16
+TOP 16 28.5074995 16.38000026 90 N 94 54 empty_name-17
+TOP 17 31.0474995 16.38000026 90 N 60 15 empty_name-18
+TOP 18 33.5874995 16.38000026 90 N 36 8 empty_name-19
+TOP 19 36.1274995 16.38000026 90 N 84 8 empty_name-20
+TOP 20 38.6674995 16.38000026 90 N 3 8 empty_name-21
+TOP 21 41.2074995 16.38000026 90 N 4 8 empty_name-22
+TOP 22 43.7474995 16.38000026 90 N 79 8 empty_name-23
+TOP 23 46.2874995 16.38000026 90 N 23 11 empty_name-24
+TOP 24 48.8274995 16.38000026 90 N 83 8 empty_name-25
+TOP 25 51.3674995 16.38000026 90 N 82 7 empty_name-26
+TOP 26 53.9074995 16.38000026 90 N 86 17 empty_name-27
+TOP 27 56.4474995 16.38000026 90 N 89 33 empty_name-28
+TOP 28 58.9874995 16.38000026 90 N 92 166 empty_name-29
+TOP 29 61.5274995 16.38000026 90 N 37 7 empty_name-30
+#
+# CMP 4
+CMP 13 54.3249993 28.27499806 90 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 54.32498406 28.549981 0 N 5 7 empty_name-1
+TOP 1 54.32498406 28.0000202 0 N 85 18 empty_name-2
+#
+# CMP 5
+CMP 13 54.05000112 28.54999878 180 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 54.32498406 28.549981 90 N 5 8 empty_name-1
+TOP 1 53.77502326 28.549981 90 N 45 15 empty_name-2
+#
+# CMP 6
+CMP 13 54.04999858 27.99999734 180 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 54.32498406 28.0000202 90 N 85 19 empty_name-1
+TOP 1 53.77502326 28.0000202 90 N 2 9 empty_name-2
+#
+# CMP 7
+CMP 13 53.77499786 28.27499806 270 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 53.77502326 28.0000202 180 N 2 8 empty_name-1
+TOP 1 53.77502326 28.549981 180 N 45 16 empty_name-2
+#
+# CMP 8
+CMP 13 26.94999944 28.95000052 180 N empty_name UBXH18-000014410M ;0=1,1=0.4000
+PRP Editor 'jaka.bevk'
+PRP Env 'ROHS'
+PRP Manufacturer 'Panasonic'
+PRP Manufacturer_P/N 'ERJ2GEJ106X'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=21267'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0000144'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2014-10-01 15:15:33.550533'
+PRP Released_by 'matej.budin'
+PRP Size '0402'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=21262'
+PRP Value '10M'
+TOP 0 27.3500215 28.9500056 90 N 92 162 empty_name-1
+TOP 1 26.5500231 28.9500056 90 N 6 10 empty_name-2
+#
+# CMP 9
+CMP 13 24.79999866 24.00000026 90 N empty_name ZX62R-B-5P ;0=1,1=2.6500
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.hirose.com/â€Ž'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.hirose.co.jp/cataloge_hp/e24200011.pdf'
+PRP DatasheetVersion '08/2010'
+PRP Editor 'pierpaolo.arban'
+PRP Env 'ROHS'
+PRP Manufacturer 'Hirose'
+PRP Manufacturer_P/N 'ZX62R-B-5P'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20280'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Mounting_Technology 'Surface Mount'
+PRP Operating_Temperature '-30 to 85 degC'
+PRP PackageDescription '5-Pin USB Micro-B R/A Connector'
+PRP PackageReference 'ZX62R-B-5P'
+PRP Part_Number 'UBXH04-0000168'
+PRP Part_Type 'Connector'
+PRP PartNumber 'ZX62R-B-5P'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'J'
+PRP Release_Data '2014-01-23 15:30:23.427930'
+PRP Released_by 'dario.antonaz'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=20278'
+PRP Value 'ZX62R-B-5P'
+TOP 0 26.13751694 22.70001556 0 N 14 3 empty_name-1
+TOP 1 26.13751694 23.35000156 0 N 91 9 empty_name-2
+TOP 2 26.13751694 23.99998756 0 N 88 9 empty_name-3
+TOP 3 26.13751694 24.65002436 0 N 0 25 empty_name-4
+TOP 4 26.13751694 25.30001036 0 N 92 160 empty_name-5
+TOP 5 25.81249854 27.10000676 270 N 6 11 empty_name-6
+TOP 6 23.46249054 28.10000476 270 N 6 8 empty_name-7
+TOP 7 23.46249054 24.85002396 270 N 6 7 empty_name-8
+TOP 8 23.46249054 23.15000196 270 N 6 6 empty_name-9
+TOP 9 23.46249054 19.90002116 270 N 6 5 empty_name-10
+TOP 10 25.81249854 20.90001916 270 N 6 4 empty_name-11
+#
+# CMP 10
+CMP 13 26.93999946 29.73999894 180 N empty_name UBXH01-0000245100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 27.21500272 29.74000402 180 N 92 161 empty_name-1
+TOP 1 26.66499112 29.74000402 180 N 6 9 empty_name-2
+#
+# CMP 11
+CMP 13 33.44999914 28.8280348 270 N empty_name UBXH18-000047027R ;0=1,1=0.2600
+PRP Editor 'alex.claville'
+PRP Env 'ROHS'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RC0603J270CS'
+PRP Manufacturer_P/N_2 'RC0201JR-0727RL'
+PRP Max_Operating_Temp '125°C'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000470'
+PRP Part_Type 'Resistor'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2019-05-22 14:26:44.225770'
+PRP Released_by 'andre.pick'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=30167'
+PRP Value '27R'
+TOP 0 33.450022 28.5530544 180 N 88 7 empty_name-1
+TOP 1 33.450022 29.1030152 180 N 61 1 empty_name-2
+#
+# CMP 12
+CMP 10 33.39999924 25.2500003 180 N U2 FT231XQ-R ;0=1,1=0.2600
+PRP Editor 'adam.johansson'
+PRP Env 'ROHS'
+PRP Manufacturer 'FTDI Future Technology Devices International'
+PRP Manufacturer_P/N 'FT231XQ-R'
+PRP Max_Operating_Temp '85°C'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=33707'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH10-0000054'
+PRP Part_Type 'Interface'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'U'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=27258'
+PRP Value 'FT231XQ-R'
+TOP 0 35.2655124 24.2499896 180 N 55 3 U2-1
+TOP 1 35.2655124 24.750014 180 N 0 18 U2-2
+TOP 2 35.2655124 25.2499876 180 N 92 176 U2-3
+TOP 3 35.2655124 25.750012 180 N 10 2 U2-4
+TOP 4 35.2655124 26.2499856 180 N 0 19 U2-5
+TOP 5 34.399982 27.115516 180 N 12 2 U2-6
+TOP 6 33.9000084 27.115516 180 N 0 22 U2-7
+TOP 7 33.399984 27.115516 180 N 39 1 U2-8
+TOP 8 32.9000104 27.115516 180 N 40 1 U2-9
+TOP 9 32.399986 27.115516 180 N 94 58 U2-10
+TOP 10 31.5345064 26.2499856 180 N 94 57 U2-11
+TOP 11 31.5345064 25.750012 180 N 94 56 U2-12
+TOP 12 31.5345064 25.2499876 180 N 92 175 U2-13
+TOP 13 31.5345064 24.750014 180 N 0 20 U2-14
+TOP 14 31.5345064 24.2499896 180 N 0 21 U2-15
+TOP 15 32.399986 23.38451 180 N 0 23 U2-16
+TOP 16 32.9000104 23.38451 180 N 13 3 U2-17
+TOP 17 33.399984 23.38451 180 N 11 3 U2-18
+TOP 18 33.9000084 23.38451 180 N 54 3 U2-19
+TOP 19 34.399982 23.38451 180 N 94 55 U2-20
+TOP 20 33.399984 25.2499876 180 N 92 174 U2-21
+#
+# CMP 13
+CMP 13 32.85000034 28.82803734 90 N empty_name UBXH18-000047027R ;0=1,1=0.2600
+PRP Editor 'alex.claville'
+PRP Env 'ROHS'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RC0603J270CS'
+PRP Manufacturer_P/N_2 'RC0201JR-0727RL'
+PRP Max_Operating_Temp '125°C'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000470'
+PRP Part_Type 'Resistor'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2019-05-22 14:26:44.225770'
+PRP Released_by 'andre.pick'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=30167'
+PRP Value '27R'
+TOP 0 32.8500232 29.1030152 0 N 62 3 empty_name-1
+TOP 1 32.8500232 28.5530544 0 N 91 7 empty_name-2
+#
+# CMP 14
+CMP 13 36.25000116 26.15000104 90 N empty_name UBXH18-00000071K0 ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Panasonic'
+PRP Manufacturer_3 'YAGEO'
+PRP Manufacturer_P/N 'RK73B1HTTC102J'
+PRP Manufacturer_P/N_2 'ERJ-1GNJ102C'
+PRP Manufacturer_P/N_3 'RC0201JR-071KL'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=4543'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35141'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=26941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'No'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Part_Number 'UBXH18-0000007'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-05-10 13:01:52.556503'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8216'
+PRP Value '1K0'
+TOP 0 36.25000878 26.42498906 0 N 10 1 empty_name-1
+TOP 1 36.25000878 25.87497746 0 N 47 14 empty_name-2
+#
+# CMP 15
+CMP 13 34.62499806 21.94999928 0 N empty_name UBXH18-00000071K0 ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Panasonic'
+PRP Manufacturer_3 'YAGEO'
+PRP Manufacturer_P/N 'RK73B1HTTC102J'
+PRP Manufacturer_P/N_2 'ERJ-1GNJ102C'
+PRP Manufacturer_P/N_3 'RC0201JR-071KL'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=4543'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35141'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=26941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'No'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Part_Number 'UBXH18-0000007'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-05-10 13:01:52.556503'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8216'
+PRP Value '1K0'
+TOP 0 34.3499948 21.9500196 270 N 11 2 empty_name-1
+TOP 1 34.9000064 21.9500196 270 N 49 14 empty_name-2
+#
+# CMP 16
+CMP 13 32.85000034 28.2780359 90 N empty_name UBXH18-000047027R ;0=1,1=0.2600
+PRP Editor 'alex.claville'
+PRP Env 'ROHS'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RC0603J270CS'
+PRP Manufacturer_P/N_2 'RC0201JR-0727RL'
+PRP Max_Operating_Temp '125°C'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000470'
+PRP Part_Type 'Resistor'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2019-05-22 14:26:44.225770'
+PRP Released_by 'andre.pick'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=30167'
+PRP Value '27R'
+TOP 0 32.8500232 28.5530544 0 N 91 6 empty_name-1
+TOP 1 32.8500232 28.0030428 0 N 40 2 empty_name-2
+#
+# CMP 17
+CMP 13 34.97500244 28.00303518 0 N empty_name UBXH18-00000071K0 ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Panasonic'
+PRP Manufacturer_3 'YAGEO'
+PRP Manufacturer_P/N 'RK73B1HTTC102J'
+PRP Manufacturer_P/N_2 'ERJ-1GNJ102C'
+PRP Manufacturer_P/N_3 'RC0201JR-071KL'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=4543'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35141'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=26941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'No'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Part_Number 'UBXH18-0000007'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-05-10 13:01:52.556503'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8216'
+PRP Value '1K0'
+TOP 0 34.7000068 28.0030428 270 N 12 3 empty_name-1
+TOP 1 35.2500184 28.0030428 270 N 45 17 empty_name-2
+#
+# CMP 18
+CMP 13 33.44999914 28.2780359 90 N empty_name UBXH18-000047027R ;0=1,1=0.2600
+PRP Editor 'alex.claville'
+PRP Env 'ROHS'
+PRP Manufacturer 'Samsung Electro-Mechanics'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RC0603J270CS'
+PRP Manufacturer_P/N_2 'RC0201JR-0727RL'
+PRP Max_Operating_Temp '125°C'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000470'
+PRP Part_Type 'Resistor'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2019-05-22 14:26:44.225770'
+PRP Released_by 'andre.pick'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=30167'
+PRP Value '27R'
+TOP 0 33.450022 28.5530544 0 N 88 6 empty_name-1
+TOP 1 33.450022 28.0030428 0 N 39 2 empty_name-2
+#
+# CMP 19
+CMP 13 34.62499806 22.50000072 0 N empty_name UBXH18-00080491K0 ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Panasonic'
+PRP Manufacturer_3 'YAGEO'
+PRP Manufacturer_P/N 'RK73B1HTTC102J'
+PRP Manufacturer_P/N_2 'ERJ-1GNJ102C'
+PRP Manufacturer_P/N_3 'RC0201JR-071KL'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=4543'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35141'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=26941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'No'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Part_Number 'UBXH18-0000007'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-05-10 13:01:52.556503'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8216'
+PRP Value '1K0'
+TOP 0 34.3499948 22.4999804 270 N 54 2 empty_name-1
+TOP 1 34.9000064 22.4999804 270 N 51 13 empty_name-2
+#
+# CMP 20
+CMP 13 36.14999882 23.75000076 270 N empty_name UBXH18-00080491K0 ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Panasonic'
+PRP Manufacturer_3 'YAGEO'
+PRP Manufacturer_P/N 'RK73B1HTTC102J'
+PRP Manufacturer_P/N_2 'ERJ-1GNJ102C'
+PRP Manufacturer_P/N_3 'RC0201JR-071KL'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=4543'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35141'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=26941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'No'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Part_Number 'UBXH18-0000007'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-05-10 13:01:52.556503'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8216'
+PRP Value '1K0'
+TOP 0 36.1499912 23.4749848 180 N 55 2 empty_name-1
+TOP 1 36.1499912 24.0249964 180 N 41 11 empty_name-2
+#
+# CMP 21
+CMP 13 32.62499952 22.50000072 180 N empty_name UBXH18-00000071K0 ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Panasonic'
+PRP Manufacturer_3 'YAGEO'
+PRP Manufacturer_P/N 'RK73B1HTTC102J'
+PRP Manufacturer_P/N_2 'ERJ-1GNJ102C'
+PRP Manufacturer_P/N_3 'RC0201JR-071KL'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=4543'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35141'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=26941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'No'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Part_Number 'UBXH18-0000007'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-05-10 13:01:52.556503'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8216'
+PRP Value '1K0'
+TOP 0 32.9000104 22.4999804 90 N 13 2 empty_name-1
+TOP 1 32.3499988 22.4999804 90 N 43 12 empty_name-2
+#
+# CMP 22
+CMP 13 29.90000116 25.3500001 90 N empty_name UBXH01-00002434U7 ;0=1,1=0.6000
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_P/N 'GRM155R61A475MEAA'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10.0V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24302'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000243'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-17 10:02:21.014314'
+PRP Released_by 'pasquale.scorca'
+PRP Size '0x0y'
+PRP Tolerance '20%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24303'
+PRP Value '4U7'
+TOP 0 29.9000164 25.750012 0 N 94 45 empty_name-1
+TOP 1 29.9000164 24.9500136 0 N 92 149 empty_name-2
+#
+# CMP 23
+CMP 13 30.59999976 25.47499858 90 N empty_name UBXH01-0000417100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 30.5999896 25.750012 90 N 94 44 empty_name-1
+TOP 1 30.5999896 25.2000004 90 N 92 148 empty_name-2
+#
+# CMP 24
+CMP 13 45.79999984 18.34999886 180 N empty_name UBXH18-000109710K ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Panasonic'
+PRP Manufacturer_3 'YAGEO'
+PRP Manufacturer_P/N 'RK73B1HTTC103J'
+PRP Manufacturer_P/N_2 'ERJ-1GNJ103C'
+PRP Manufacturer_P/N_3 'RC0201JR-0710KL'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=4543'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35141'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=26941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'No'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Part_Number 'UBXH18-0001097'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-05-21 12:17:49.148436'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6581'
+PRP Value '10K'
+TOP 0 46.07500818 18.3499887 90 N 89 36 empty_name-1
+TOP 1 45.52499658 18.3499887 90 N 94 41 empty_name-2
+#
+# CMP 25
+CMP 13 28.85000072 22.65000042 0 N empty_name UBXH01-0000245100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 28.575 22.6499928 0 N 86 13 empty_name-1
+TOP 1 29.1250116 22.6499928 0 N 92 158 empty_name-2
+#
+# CMP 26
+CMP 13 28.02999982 20.15000034 180 N empty_name UBXH01-0000245100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 28.304998 20.14999272 180 N 86 11 empty_name-1
+TOP 1 27.7549864 20.14999272 180 N 92 157 empty_name-2
+#
+# CMP 27
+CMP 13 30.59999976 18.8000005 180 N empty_name UBXH01-0000245100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 30.8749827 18.8000259 180 N 94 49 empty_name-1
+TOP 1 30.3250219 18.8000259 180 N 92 154 empty_name-2
+#
+# CMP 28
+CMP 13 48.90000126 20.84999894 90 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 48.8999784 21.1249768 0 N 20 11 empty_name-1
+TOP 1 48.8999784 20.575016 0 N 72 10 empty_name-2
+#
+# CMP 29
+CMP 13 46.50000352 23.98499902 270 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 46.50000098 23.71000084 180 N 70 8 empty_name-1
+TOP 1 46.50000098 24.26001244 180 N 71 10 empty_name-2
+#
+# CMP 30
+CMP 13 37.95002316 28.5250001 180 N R41 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 38.3499995 28.5250001 90 N 33 10 R41-1
+TOP 1 37.5500011 28.5250001 90 N 44 8 R41-2
+#
+# CMP 31
+CMP 13 37.9500003 27.67499926 180 N empty_name UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 38.3499741 27.6750145 90 N 42 9 empty_name-1
+TOP 1 37.5499757 27.6750145 90 N 34 10 empty_name-2
+#
+# CMP 32
+CMP 13 38.3499995 28.09999968 90 N R42 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 38.3499741 28.5000065 0 N 33 11 R42-1
+TOP 1 38.3499741 27.7000081 0 N 42 10 R42-2
+#
+# CMP 33
+CMP 13 37.5000012 28.09999968 270 N R38 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 37.49999104 27.7000081 180 N 34 11 R38-1
+TOP 1 37.49999104 28.5000065 180 N 44 9 R38-2
+#
+# CMP 34
+CMP 13 55.94999986 18.4331864 180 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 56.2249828 18.4331864 90 N 18 4 empty_name-1
+TOP 1 55.675022 18.4331864 90 N 9 10 empty_name-2
+#
+# CMP 35
+CMP 13 56.22499804 18.70818712 270 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 56.2249828 18.4331864 180 N 18 5 empty_name-1
+TOP 1 56.2249828 18.983198 180 N 20 9 empty_name-2
+#
+# CMP 36
+CMP 13 55.94999986 18.98318784 0 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 55.675022 18.983198 270 N 21 5 empty_name-1
+TOP 1 56.2249828 18.983198 270 N 20 10 empty_name-2
+#
+# CMP 37
+CMP 3 33.28999946 19.60000144 180 N U1 NCP692MN33T2G ;0=1,1=1.0000
+PRP Editor 'hakan.ekfors'
+PRP Env 'ROHS'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'NCP692MN33T2G'
+PRP Max_Current '1A'
+PRP Max_Operating_Temp '125°C'
+PRP Max_Voltage '6V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35425'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH12-0000459'
+PRP Part_Type 'Regulator'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'U'
+PRP Release_Data '2021-08-23 15:14:48.502500'
+PRP Released_by 'markus.wejrot'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=35423'
+PRP Value '3.3V'
+TOP 0 34.6300044 18.6500008 90 N 59 4 U1-1
+TOP 1 34.6300044 19.6000116 90 N 92 152 U1-2
+TOP 2 34.6300044 20.5500224 90 N 1 4 U1-3
+TOP 3 31.9499996 20.5500224 90 N 32 8 U1-4
+TOP 4 31.9499996 19.6000116 90 N 94 48 U1-5
+TOP 5 31.9499996 18.6500008 90 N 59 5 U1-6
+TOP 6 33.290002 19.6000116 90 N 92 153 U1-7
+#
+# CMP 38
+CMP 13 30.69999956 21.69999978 0 N empty_name UBXH18-000807310K ;0=1,1=0.4000
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_87103_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0008073'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-08-19 10:42:45'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0402'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6981'
+PRP Value '10K'
+TOP 0 30.2999775 21.7000074 270 N 92 150 empty_name-1
+TOP 1 31.0999759 21.7000074 270 N 32 7 empty_name-2
+#
+# CMP 39
+CMP 13 30.49999996 23.19999932 90 N empty_name UBXH18-000807310K ;0=1,1=0.4000
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_87103_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0008073'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-08-19 10:42:45'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0402'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6981'
+PRP Value '10K'
+TOP 0 30.49999234 23.60000868 0 N 92 169 empty_name-1
+TOP 1 30.49999234 22.80001028 0 N 32 5 empty_name-2
+#
+# CMP 40
+CMP 13 30.69999956 20.79999904 0 N empty_name UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 30.2999775 20.8000219 270 N 94 46 empty_name-1
+TOP 1 31.0999759 20.8000219 270 N 32 6 empty_name-2
+#
+# CMP 41
+CMP 13 40.60000008 18.7000007 180 N empty_name B3U-1000P ;0=1,1=0.0000
+PRP Actuator_Length '0.4mm'
+PRP Actuator_Type 'Standard'
+PRP Contact_Current_Rating '50mA'
+PRP Contact_Material 'Silver'
+PRP Contact_Resistance '100mR'
+PRP Current_Rating '50mA'
+PRP Depth '2.5mm'
+PRP Electrical_Life '200000Cycles'
+PRP Height '1.2mm'
+PRP Illumination_Type 'Non-Illuminated'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Length '4mm'
+PRP Max_Current_Rating '50mA'
+PRP Max_Operating_Temperature '70°C'
+PRP Max_Voltage_Rating_(DC) '12V'
+PRP Mechanical_Life '200000Cycles'
+PRP Min_Operating_Temperature '-25°C'
+PRP Mount 'Surface Mount'
+PRP Operating_Force '1.5N'
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Ratings 'Dust Proof'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.15mm'
+PRP Termination 'SMD/SMT'
+PRP Throw_Configuration 'SPST'
+PRP Voltage_Rating_(DC) '12V'
+PRP Weight '0.000776oz'
+PRP Width '3mm'
+TOP 0 42.2999916 18.699988 180 N 85 14 empty_name-1
+TOP 1 38.8999984 18.699988 180 N 92 170 empty_name-2
+#
+# CMP 42
+CMP 13 69.6500004 16.89999922 270 N empty_name 115-00026 ;0=1,1=0.4000
+PRP Body_Size '1.6mm x 1.6mm'
+PRP Color ''
+PRP Current '20mA'
+PRP Height '0.35mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Lite-On Inc'
+PRP Manufacturer_2 ''
+PRP Manufacturer_Part_Number_1 'LTST-C19HE1WT'
+PRP Manufacturer_Part_Number_2 ''
+PRP Max_Operating_Temp '80'
+PRP MFG_Package '0606'
+PRP Min_Operating_Temp '-20'
+PRP Part_Name 'LED RGB SMT 0606'
+PRP Part_Number '115-00026'
+PRP Pins '4'
+PRP Revision '0B'
+PRP Size 'Other'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '160-2162-1-ND'
+PRP Supplier_Part_Number_2 '1516-1184-1-ND'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 68.9249828 16.4749988 180 N 56 2 empty_name-1
+TOP 1 68.9249828 17.3249844 180 N 57 2 empty_name-2
+TOP 2 70.375018 17.3249844 0 N 58 2 empty_name-3
+TOP 3 70.375018 16.4749988 0 N 94 30 empty_name-4
+#
+# CMP 43
+CMP 13 52.70000636 24.32499834 270 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 52.7000216 24.04999 180 N 80 5 empty_name-1
+TOP 1 52.7000216 24.6000016 180 N 81 10 empty_name-2
+#
+# CMP 44
+CMP 13 51.4250051 23.24999922 0 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 51.150012 23.2499916 270 N 17 7 empty_name-1
+TOP 1 51.7000236 23.2499916 270 N 35 10 empty_name-2
+#
+# CMP 45
+CMP 13 50.9999996 21.50000018 0 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 50.7250192 21.4999824 270 N 7 9 empty_name-1
+TOP 1 51.27498 21.4999824 270 N 8 11 empty_name-2
+#
+# CMP 46
+CMP 13 50.9999996 20.94999874 0 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 50.7250192 20.9500216 270 N 19 9 empty_name-1
+TOP 1 51.27498 20.9500216 270 N 75 11 empty_name-2
+#
+# CMP 47
+CMP 13 49.64999976 22.37000098 90 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 49.65002262 22.644989 0 N 73 9 empty_name-1
+TOP 1 49.65002262 22.0949774 0 N 74 10 empty_name-2
+#
+# CMP 48
+CMP 13 48.300005 22.3749997 90 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 48.3000304 22.6499928 0 N 9 11 empty_name-1
+TOP 1 48.3000304 22.0999812 0 N 69 11 empty_name-2
+#
+# CMP 49
+CMP 13 55.67499914 18.70818712 270 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 55.675022 18.4331864 180 N 9 9 empty_name-1
+TOP 1 55.675022 18.983198 180 N 21 4 empty_name-2
+#
+# CMP 50
+CMP 13 43.49999936 24.0300002 270 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 43.50001968 23.75501472 180 N 77 7 empty_name-1
+TOP 1 43.50001968 24.30502632 180 N 23 12 empty_name-2
+#
+# CMP 51
+CMP 13 42.2099994 22.7600002 0 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 41.93500884 22.76001798 270 N 78 10 empty_name-1
+TOP 1 42.48502044 22.76001798 270 N 79 9 empty_name-2
+#
+# CMP 52
+CMP 13 41.40000102 21.6399999 0 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 41.1250003 21.63999482 270 N 49 13 empty_name-1
+TOP 1 41.6750119 21.63999482 270 N 50 11 empty_name-2
+#
+# CMP 53
+CMP 13 41.09999908 21.10000098 0 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 40.82499836 21.09998574 270 N 51 12 empty_name-1
+TOP 1 41.37500996 21.09998574 270 N 52 11 empty_name-2
+#
+# CMP 54
+CMP 13 40.30001846 20.8500091 90 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 40.30000068 21.12499966 0 N 45 13 empty_name-1
+TOP 1 40.30000068 20.57498806 0 N 46 11 empty_name-2
+#
+# CMP 55
+CMP 13 39.74999924 20.85358288 90 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 39.749984 21.1285836 0 N 47 12 empty_name-1
+TOP 1 39.749984 20.578572 0 N 48 11 empty_name-2
+#
+# CMP 56
+CMP 13 39.15000044 22.04999908 90 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 39.1499852 22.3250252 0 N 43 13 empty_name-1
+TOP 1 39.1499852 21.7750136 0 N 44 6 empty_name-2
+#
+# CMP 57
+CMP 13 37.19999926 25.1500005 270 N empty_name UBXH18-00030020R ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'RK73Z1HTTC'
+PRP Manufacturer_P/N_2 'RC0603J000CS'
+PRP Max_Current '500mA'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20205'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003003'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-06-24 13:59:00.147333'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6614'
+PRP Value '0R'
+TOP 0 37.1999764 24.874982 180 N 41 10 empty_name-1
+TOP 1 37.1999764 25.4249936 180 N 42 7 empty_name-2
+#
+# CMP 58
+CMP 13 44.2500004 18.5000011 0 N empty_name UBXH18-000807310K ;0=1,1=0.2600
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'Panasonic'
+PRP Manufacturer_3 'YAGEO'
+PRP Manufacturer_P/N 'RK73B1HTTC103J'
+PRP Manufacturer_P/N_2 'ERJ-1GNJ103C'
+PRP Manufacturer_P/N_3 'RC0201JR-0710KL'
+PRP Max_Power '50mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=4543'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35141'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=26941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'No'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Part_Number 'UBXH18-0001097'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2021-05-21 12:17:49.148436'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0201'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6581'
+PRP Value '10K'
+TOP 0 43.97499206 18.5000011 270 N 85 17 empty_name-1
+TOP 1 44.52500366 18.5000011 270 N 94 40 empty_name-2
+#
+# CMP 59
+CMP 13 67.15000032 17.50000056 180 N empty_name UBXH18-0000216360R ;0=1,1=0.4000
+PRP Automotive 'Yes'
+PRP Editor 'michael.hein'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73H1ETTP3600F'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0000216'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2015-10-02 11:55:45.476057'
+PRP Released_by 'vasyl.dykyy'
+PRP Size '0x0y'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=23306'
+PRP Value '360R'
+TOP 0 67.5499792 17.4999904 90 N 58 3 empty_name-1
+TOP 1 66.7499808 17.4999904 90 N 93 7 empty_name-2
+#
+# CMP 60
+CMP 9 63.2500005 23.80000066 0 N M1 UBXH14-0000589 ;0=1,1=1.8000
+PRP ComponentLink1Description 'Datasheet'
+PRP ComponentLink1URL ''
+PRP ComponentLink2Description 'Supplier link'
+PRP ComponentLink2URL ''
+PRP Editor 'aneeb.sohail'
+PRP Env 'ROHS'
+PRP Manufacturer_P/N ''
+PRP Max_Operating_Temp '85°C'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH14-0000589'
+PRP Part_Type 'RF'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'A'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=34928'
+TOP 0 57.7500115 19.400012 270 N 92 133 M1-A1
+TOP 1 57.7500115 20.4999844 270 N 76 5 M1-A2
+TOP 2 57.7500115 21.6000076 270 N 78 9 M1-A3
+TOP 3 57.7500115 22.69998 270 N 27 5 M1-A4
+TOP 4 57.7500115 23.8000032 270 N 30 5 M1-A5
+TOP 5 57.7500115 24.9000264 270 N 0 11 M1-A6
+TOP 6 57.7500115 25.9999988 270 N 94 32 M1-A7
+TOP 7 57.7500115 27.100022 270 N 94 33 M1-A8
+TOP 8 57.7500115 28.1999944 270 N 92 136 M1-A9
+TOP 9 58.8499839 19.400012 270 N 28 4 M1-B1
+TOP 10 58.8499839 20.4999844 270 N 92 134 M1-B2
+TOP 11 58.8499839 21.6000076 270 N 26 3 M1-B3
+TOP 12 58.8499839 22.69998 270 N 77 6 M1-B4
+TOP 13 58.8499839 23.8000032 270 N 0 14 M1-B5
+TOP 14 58.8499839 24.9000264 270 N 16 8 M1-B6
+TOP 15 58.8499839 25.9999988 270 N 94 31 M1-B7
+TOP 16 58.8499839 27.100022 270 N 92 128 M1-B8
+TOP 17 58.8499839 28.1999944 270 N 0 7 M1-B9
+TOP 18 59.9500071 19.400012 270 N 25 5 M1-C1
+TOP 19 59.9500071 20.4999844 270 N 29 5 M1-C2
+TOP 20 59.9500071 22.69998 270 N 80 4 M1-C4
+TOP 21 59.9500071 23.8000032 270 N 0 13 M1-C5
+TOP 22 59.9500071 24.9000264 270 N 15 5 M1-C6
+TOP 23 59.9500071 27.100022 270 N 7 8 M1-C8
+TOP 24 59.9500071 28.1999944 270 N 61 0 M1-C9
+TOP 25 61.0499795 19.400012 270 N 19 8 M1-D1
+TOP 26 61.0499795 20.4999844 270 N 18 3 M1-D2
+TOP 27 61.0499795 21.6000076 270 N 3 9 M1-D3
+TOP 28 61.0499795 25.9999988 270 N 0 10 M1-D7
+TOP 29 61.0499795 27.100022 270 N 36 9 M1-D8
+TOP 30 61.0499795 28.1999944 270 N 62 2 M1-D9
+TOP 31 62.1500027 19.400012 270 N 73 8 M1-E1
+TOP 32 62.1500027 20.4999844 270 N 21 3 M1-E2
+TOP 33 62.1500027 21.6000076 270 N 63 5 M1-E3
+TOP 34 62.1500027 23.2499916 270 N 92 132 M1-E4
+TOP 35 62.1500027 24.3500148 270 N 92 129 M1-E5
+TOP 36 62.1500027 25.9999988 270 N 84 7 M1-E7
+TOP 37 62.1500027 27.100022 270 N 47 11 M1-E8
+TOP 38 62.1500027 28.1999944 270 N 49 12 M1-E9
+TOP 39 63.2500259 19.400012 270 N 70 7 M1-F1
+TOP 40 63.2500259 20.4999844 270 N 17 6 M1-F2
+TOP 41 63.2500259 21.6000076 270 N 64 4 M1-F3
+TOP 42 63.2500259 23.2499916 270 N 92 131 M1-F4
+TOP 43 63.2500259 24.3500148 270 N 92 130 M1-F5
+TOP 44 63.2500259 25.9999988 270 N 2 7 M1-F7
+TOP 45 63.2500259 27.100022 270 N 5 6 M1-F8
+TOP 46 63.2500259 28.1999944 270 N 51 11 M1-F9
+TOP 47 64.3499983 19.400012 270 N 67 11 M1-G1
+TOP 48 64.3499983 20.4999844 270 N 83 9 M1-G2
+TOP 49 64.3499983 21.6000076 270 N 4 9 M1-G3
+TOP 50 64.3499983 23.2499916 270 N 0 17 M1-G4
+TOP 51 64.3499983 24.3500148 270 N 0 12 M1-G5
+TOP 52 64.3499983 25.9999988 270 N 24 5 M1-G7
+TOP 53 64.3499983 27.100022 270 N 41 9 M1-G8
+TOP 54 64.3499983 28.1999944 270 N 43 11 M1-G9
+TOP 55 65.4500215 19.400012 270 N 66 11 M1-H1
+TOP 56 65.4500215 20.4999844 270 N 65 12 M1-H2
+TOP 57 65.4500215 21.6000076 270 N 82 8 M1-H3
+TOP 58 65.4500215 23.2499916 0 N 92 119 M1-H4
+TOP 59 65.4500215 24.3500148 0 N 92 118 M1-H5
+TOP 60 65.4500215 25.9999988 270 N 0 9 M1-H7
+TOP 61 65.4500215 27.100022 270 N 87 4 M1-H8
+TOP 62 65.4500215 28.1999944 270 N 93 6 M1-H9
+TOP 63 66.5499939 19.400012 270 N 38 4 M1-J1
+TOP 64 66.5499939 20.4999844 270 N 68 12 M1-J2
+TOP 65 66.5499939 21.6000076 270 N 89 35 M1-J3
+TOP 66 66.5499939 23.2499916 270 N 0 16 M1-J4
+TOP 67 66.5499939 24.3500148 270 N 0 6 M1-J5
+TOP 68 66.5499939 25.9999988 270 N 0 8 M1-J7
+TOP 69 66.5499939 27.100022 270 N 90 6 M1-J8
+TOP 70 66.5499939 28.1999944 270 N 31 5 M1-J9
+TOP 71 67.6500171 19.400012 270 N 0 15 M1-K1
+TOP 72 67.6500171 20.4999844 270 N 92 124 M1-K2
+TOP 73 67.6500171 21.6000076 270 N 92 123 M1-K3
+TOP 74 67.6500171 22.69998 270 N 92 122 M1-K4
+TOP 75 67.6500171 23.8000032 270 N 92 121 M1-K5
+TOP 76 67.6500171 24.9000264 270 N 92 120 M1-K6
+TOP 77 67.6500171 25.9999988 270 N 92 117 M1-K7
+TOP 78 67.6500171 27.100022 270 N 92 116 M1-K8
+TOP 79 67.6500171 28.1999944 270 N 53 3 M1-K9
+TOP 80 69.1499887 19.400012 270 N 92 126 M1-L1
+TOP 81 69.1499887 28.1999944 270 N 92 113 M1-L9
+TOP 82 70.6500111 19.400012 270 N 92 127 M1-M1
+TOP 83 70.6500111 20.4999844 270 N 92 125 M1-M2
+TOP 84 70.6500111 27.100022 270 N 92 115 M1-M8
+TOP 85 70.6500111 28.1999944 270 N 92 114 M1-M9
+#
+# CMP 61
+CMP 13 30.40000016 17.89999976 180 N empty_name 110-00036 ;0=1,1=0.6500
+PRP Arena_Link 'https://app.bom.com/a/9RAIOVEVEXW60AQ2?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '200mA'
+PRP Diode_Type 'Schottky'
+PRP Height '0.6mm'
+PRP Item_Phase 'Preliminary'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'RB521S30T1G'
+PRP MFG_Package 'SOD-523'
+PRP Package_Type 'SOD'
+PRP Part_Name 'Diode Schottky 30V 200mA SOD523'
+PRP Part_Number '110-00036'
+PRP Part_Type 'Diode'
+PRP Pins '2'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'RB521S30T1GOSCT-ND'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '30V'
+TOP 0 29.6999787 17.8999769 180 N 86 10 empty_name-A
+TOP 1 31.1000267 17.8999769 180 N 59 6 empty_name-C
+#
+# CMP 62
+CMP 13 47.48497488 27.26999118 0 N empty_name 120-000160.1uF ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 47.20999956 27.2699988 0 N 92 141 empty_name-1
+TOP 1 47.75996036 27.2699988 0 N 60 19 empty_name-2
+#
+# CMP 63
+CMP 13 47.6500063 22.85000002 90 N empty_name 120-000160.1uF ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 47.6499936 23.1250236 90 N 94 38 empty_name-1
+TOP 1 47.6499936 22.575012 90 N 92 142 empty_name-2
+#
+# CMP 64
+CMP 13 38.32498304 26.70001772 0 N empty_name 120-000160.1uF ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 38.0500001 26.69999994 0 N 92 147 empty_name-1
+TOP 1 38.5999609 26.69999994 0 N 60 18 empty_name-2
+#
+# CMP 65
+CMP 13 38.32500082 22.85000002 180 N empty_name 120-000160.1uF ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 38.6000244 22.8499924 180 N 94 42 empty_name-1
+TOP 1 38.0500128 22.8499924 180 N 92 145 empty_name-2
+#
+# CMP 66
+CMP 13 53.49999968 20.49999964 0 N empty_name UBXH01-0000417100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 53.22499134 20.50000726 0 N 89 37 empty_name-1
+TOP 1 53.77500294 20.50000726 0 N 92 140 empty_name-2
+#
+# CMP 67
+CMP 13 53.12499916 17.60000036 180 N empty_name UBXH01-0000417100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 53.3999948 17.5999775 180 N 86 18 empty_name-1
+TOP 1 52.8499832 17.5999775 180 N 92 138 empty_name-2
+#
+# CMP 68
+CMP 13 61.79998562 17.5499903 0 N empty_name UBXH01-0000417100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 61.52498744 17.55000046 0 N 37 9 empty_name-1
+TOP 1 62.07499904 17.55000046 0 N 92 135 empty_name-2
+#
+# CMP 69
+CMP 13 38.2499997 20.49999964 180 N empty_name UBXH01-0000417100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 38.52500804 20.4999971 180 N 85 16 empty_name-1
+TOP 1 37.97499644 20.4999971 180 N 92 144 empty_name-2
+#
+# CMP 70
+CMP 13 27.70000048 18.62499958 270 N empty_name UBXH01-0000417100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 27.7000208 18.349976 270 N 94 51 empty_name-1
+TOP 1 27.7000208 18.8999876 270 N 92 156 empty_name-2
+#
+# CMP 71
+CMP 13 55.89999996 27.35000118 180 N empty_name UBXH01-0000417100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11 16:09:03.879257'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 56.17501592 27.34998594 180 N 94 35 empty_name-1
+TOP 1 55.62500432 27.34998594 180 N 92 172 empty_name-2
+#
+# CMP 72
+CMP 13 56.29999916 28.39999908 270 N empty_name UBXH01-00002434U7 ;0=1,1=0.6000
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_P/N 'GRM155R61A475MEAA'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10.0V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24302'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000243'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-17 10:02:21.014314'
+PRP Released_by 'pasquale.scorca'
+PRP Size '0x0y'
+PRP Tolerance '20%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24303'
+PRP Value '4U7'
+TOP 0 56.3000017 28.00000496 180 N 94 34 empty_name-1
+TOP 1 56.3000017 28.80000336 180 N 92 173 empty_name-2
+#
+# CMP 73
+CMP 13 37.09999946 19.0999999 0 N empty_name UBXH01-000004010U ;0=1,1=0.9500
+PRP Editor 'pierpaolo.arban'
+PRP Env 'ROHS'
+PRP Manufacturer 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_2 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_3 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_P/N 'LMK107BBJ106MALT'
+PRP Manufacturer_P/N_2 'GRM188R61A106KAAL'
+PRP Manufacturer_P/N_3 'LMK107BJ106MALTD'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=16905'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27232'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=29392'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'NRND'
+PRP Part_Number 'UBXH01-0000040'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2013-01-10 11:54:39.678233'
+PRP Released_by 'matej.budin'
+PRP Size '0603'
+PRP Tolerance '20%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=16909'
+PRP Value '10U'
+TOP 0 36.44999822 19.0999999 270 N 59 2 empty_name-1
+TOP 1 37.7500007 19.0999999 270 N 92 177 empty_name-2
+#
+# CMP 74
+CMP 13 25.83998896 19.1699896 0 N R1 UBXH18-0008046750R ;0=1,1=0.4000
+PRP Editor 'jaka.bevk'
+PRP Env 'ROHS'
+PRP Manufacturer 'Panasonic'
+PRP Manufacturer_P/N 'ERJ2GEJ751X'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=21267'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0008046'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2014-10-03 09:31:33.687559'
+PRP Released_by 'erian.bezhani'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6935'
+PRP Value '750R'
+TOP 0 25.43999992 19.16999976 270 N 22 1 R1-1
+TOP 1 26.23999832 19.16999976 270 N 92 155 R1-2
+#
+# CMP 75
+CMP 13 67.15000032 15.79999888 180 N R7 UBXH18-0008046750R ;0=1,1=0.4000
+PRP Editor 'jaka.bevk'
+PRP Env 'ROHS'
+PRP Manufacturer 'Panasonic'
+PRP Manufacturer_P/N 'ERJ2GEJ751X'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=21267'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0008046'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2014-10-03 09:31:33.687559'
+PRP Released_by 'erian.bezhani'
+PRP Size '0x0y'
+PRP Tolerance '5%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6935'
+PRP Value '750R'
+TOP 0 67.5499792 15.8000192 90 N 56 3 R7-1
+TOP 1 66.7499808 15.8000192 90 N 90 7 R7-2
+#
+# CMP 76
+CMP 13 67.15000032 16.64999972 180 N R4 UBXH18-0000216360R ;0=1,1=0.4000
+PRP Automotive 'Yes'
+PRP Editor 'michael.hein'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73H1ETTP3600F'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0000216'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2015-10-02 11:55:45.476057'
+PRP Released_by 'vasyl.dykyy'
+PRP Size '0x0y'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=23306'
+PRP Value '360R'
+TOP 0 67.5499792 16.6500048 90 N 57 3 R4-1
+TOP 1 66.7499808 16.6500048 90 N 87 5 R4-2
+#
+# CMP 77
+CMP 8 25.9499989 18.09999936 0 N D1 UBXH11-0000018 ;0=1,1=0.4000
+PRP Color ''
+PRP Editor 'johann.furrer'
+PRP Env 'ROHS'
+PRP Manufacturer 'Osram'
+PRP Manufacturer_P/N 'LG L29K-G2J1-24'
+PRP Max_Current '2mA'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '2.2V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=20620'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH11-0000018'
+PRP Part_Type 'LED'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'DS'
+PRP Release_Data '2018-01-09 15:31:38.754561'
+PRP Released_by 'martin.grasse'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=20619'
+PRP Value 'GREEN'
+TOP 0 25.1500132 18.0999892 180 N 22 2 D1-1
+TOP 1 26.75001 18.0999892 180 N 94 50 D1-2
+#
+# CMP 78
+CMP 15 28.29999928 24.82499988 90 N D4 110-00018 ;0=1,1=0.6000
+PRP Arena_Link 'https://app.bom.com/a/UCV39GZGZIHX50AE?v=spec.summary'
+PRP Body_Size '1.6mm x 1.2mm'
+PRP Component_Mounting_Type 'SMT'
+PRP Diode_Type 'TVS'
+PRP DNP ''
+PRP Height '.55mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Texas Instruments'
+PRP Manufacturer_P/N 'TPD3E001DRLR'
+PRP MFG_Package 'SOT-553'
+PRP Package_Type 'SOT'
+PRP Part_Name 'TVS Diode, 3CH High Speed ESD'
+PRP Part_Number '110-00018'
+PRP Part_Type 'Diode'
+PRP Pins '5'
+PRP Revision '0A'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '296-21885-1-ND'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '5V'
+TOP 0 28.7999932 25.5000252 0 N 91 8 D4-1
+TOP 1 28.3000196 25.5000252 0 N 88 8 D4-2
+TOP 2 27.7999952 25.5000252 0 N 92 159 D4-3
+TOP 3 27.7999952 24.1500152 0 N 0 24 D4-4
+TOP 4 28.7999932 24.1500152 0 N 86 14 D4-5
+#
+# CMP 79
+CMP 22 55.70001052 23.54999862 90 N X1 100-00005 ;0=1,1=0.9000
+PRP Arena_Link 'https://app.bom.com/a/L3MU07Q7Q98O5PC8?v=spec.summary'
+PRP Body_Size '3.2mm x 1.5mm'
+PRP CL '7pF'
+PRP Component_Mounting_Type 'SMT'
+PRP Frequency '32.768kHz'
+PRP Frequency_Tolerance '20ppm'
+PRP Height '0.9mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Epson'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_P/N 'FC-135 32.7680KA-AG3'
+PRP Manufacturer_P/N_2 'ST3215SB32768C0HPWBB'
+PRP MFG_Package '2-SMD'
+PRP Part_Name 'XTAL 32.768kHz 7pF 20ppm 3215'
+PRP Part_Number '100-00005'
+PRP Part_Type 'Crystal/Oscillator'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'SER4086CT-ND'
+PRP Supplier_Part_Number_2 '1253-1113-1-ND'
+PRP Use_in_new_designs 'Yes'
+TOP 0 55.70000036 24.8500011 90 N 15 6 X1-1
+TOP 1 55.70000036 22.2500063 90 N 16 9 X1-2
+#
+# CMP 80
+CMP 11 40.60000262 24.8000012 270 N U3 NXS0108BQX ;0=1,1=1.0000
+PRP Editor 'hakan.ekfors'
+PRP Env 'ROHS'
+PRP Manufacturer 'Nexperia'
+PRP Manufacturer_P/N 'NXS0108BQX'
+PRP Max_Operating_Temp '125°C'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35392'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH10-0000091'
+PRP Part_Type 'Interface'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'U'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=35391'
+PRP Value 'NXS0108BQX'
+TOP 0 38.5499864 24.5500144 270 N 41 12 U3-1
+TOP 1 38.8500112 23.750016 180 N 94 43 U3-2
+TOP 2 39.3499848 23.750016 180 N 43 14 U3-3
+TOP 3 39.8500092 23.750016 180 N 47 13 U3-4
+TOP 4 40.3499828 23.750016 180 N 45 14 U3-5
+TOP 5 40.8500072 23.750016 180 N 51 14 U3-6
+TOP 6 41.3499808 23.750016 180 N 49 15 U3-7
+TOP 7 41.8500052 23.750016 180 N 78 11 U3-8
+TOP 8 42.3499788 23.750016 180 N 77 8 U3-9
+TOP 9 42.6500036 24.5500144 270 N 94 39 U3-10
+TOP 10 42.6500036 25.049988 270 N 92 143 U3-11
+TOP 11 42.3499788 25.8499864 180 N 23 13 U3-12
+TOP 12 41.8500052 25.8499864 180 N 79 10 U3-13
+TOP 13 41.3499808 25.8499864 180 N 50 12 U3-14
+TOP 14 40.8500072 25.8499864 180 N 52 12 U3-15
+TOP 15 40.3499828 25.8499864 180 N 46 12 U3-16
+TOP 16 39.8500092 25.8499864 180 N 48 12 U3-17
+TOP 17 39.3499848 25.8499864 180 N 44 7 U3-18
+TOP 18 38.8500112 25.8499864 180 N 60 16 U3-19
+TOP 19 38.5499864 25.049988 270 N 42 8 U3-20
+TOP 20 40.6000204 24.8000012 270 N 92 164 U3-21
+#
+# CMP 81
+CMP 13 67.64999932 31.6000003 0 N empty_name UBXH04-0001026 ;0=1,1=1.2500
+PRP Editor 'roland.rust'
+PRP Env 'ROHS'
+PRP Manufacturer 'Hirose'
+PRP Manufacturer_P/N '331-0472-2'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'Obsolete'
+PRP Part_Number 'UBXH04-0001026'
+PRP Part_Type 'Connector'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'J'
+PRP Release_Data '2007-09-18 11:03:31'
+PRP Released_by 'roland.rust'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5854'
+PRP Value '331-0472-2'
+TOP 0 67.6500171 30.100016 0 N 53 2 empty_name-1
+TOP 1 66.1749883 31.5999876 0 N 92 111 empty_name-2
+TOP 2 69.1249951 31.5999876 0 N 92 112 empty_name-2
+#
+# CMP 82
+CMP 11 49.75000464 25.10000314 270 N U4 NXS0108BQX ;0=1,1=1.0000
+PRP Editor 'hakan.ekfors'
+PRP Env 'ROHS'
+PRP Manufacturer 'Nexperia'
+PRP Manufacturer_P/N 'NXS0108BQX'
+PRP Max_Operating_Temp '125°C'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=35392'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH10-0000091'
+PRP Part_Type 'Interface'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'U'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=35391'
+PRP Value 'NXS0108BQX'
+TOP 0 47.6999808 24.8499884 270 N 70 9 U4-1
+TOP 1 48.0000056 24.04999 180 N 94 37 U4-2
+TOP 2 48.50003 24.04999 180 N 9 12 U4-3
+TOP 3 49.0000036 24.04999 180 N 20 12 U4-4
+TOP 4 49.500028 24.04999 180 N 73 10 U4-5
+TOP 5 50.0000016 24.04999 180 N 19 10 U4-6
+TOP 6 50.500026 24.04999 180 N 7 10 U4-7
+TOP 7 50.9999996 24.04999 180 N 17 8 U4-8
+TOP 8 51.500024 24.04999 180 N 80 6 U4-9
+TOP 9 51.799998 24.8499884 270 N 94 36 U4-10
+TOP 10 51.799998 25.3500128 270 N 92 137 U4-11
+TOP 11 51.500024 26.1500112 180 N 81 11 U4-12
+TOP 12 50.9999996 26.1500112 180 N 35 11 U4-13
+TOP 13 50.500026 26.1500112 180 N 8 12 U4-14
+TOP 14 50.0000016 26.1500112 180 N 75 12 U4-15
+TOP 15 49.500028 26.1500112 180 N 74 11 U4-16
+TOP 16 49.0000036 26.1500112 180 N 72 11 U4-17
+TOP 17 48.50003 26.1500112 180 N 69 12 U4-18
+TOP 18 48.0000056 26.1500112 180 N 60 17 U4-19
+TOP 19 47.6999808 25.3500128 270 N 71 11 U4-20
+TOP 20 49.7500148 25.100026 270 N 92 163 U4-21
+#
+# CMP 83
+CMP 6 28.39999908 21.64999988 180 N F1 UBXH08-0000001 ;0=1,1=0.9500
+PRP Editor 'daniel.hurni'
+PRP Env 'ROHS'
+PRP Manufacturer 'TDK Corporation'
+PRP Manufacturer_P/N 'MMZ1608B601C'
+PRP Max_Current '500mA'
+PRP Max_Operating_Temp '125°C'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=7941'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH08-0000001'
+PRP Part_Type 'Ferrite'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'FB'
+PRP Release_Data '2009-12-02 10:18:36.177919'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0x0y'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=7960'
+PRP Value '600OHM'
+TOP 0 29.04999016 21.65000496 90 N 86 12 F1-1
+TOP 1 27.75001816 21.65000496 90 N 14 2 F1-2
+#
+# CMP 84
+CMP 4 49.45000016 18.7000007 0 N SW1 B3U-1000P ;0=1,1=0.0000
+PRP Actuator_Length '0.4mm'
+PRP Actuator_Type 'Standard'
+PRP Contact_Current_Rating '50mA'
+PRP Contact_Material 'Silver'
+PRP Contact_Resistance '100mR'
+PRP Current_Rating '50mA'
+PRP Depth '2.5mm'
+PRP Electrical_Life '200000Cycles'
+PRP Height '1.2mm'
+PRP Illumination_Type 'Non-Illuminated'
+PRP Insulation_Resistance '100MR'
+PRP Lead_Free 'Lead Free'
+PRP Length '4mm'
+PRP Max_Current_Rating '50mA'
+PRP Max_Operating_Temperature '70°C'
+PRP Max_Voltage_Rating_(DC) '12V'
+PRP Mechanical_Life '200000Cycles'
+PRP Min_Operating_Temperature '-25°C'
+PRP Mount 'Surface Mount'
+PRP Operating_Force '1.5N'
+PRP Orientation 'Straight'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Ratings 'Dust Proof'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.15mm'
+PRP Termination 'SMD/SMT'
+PRP Throw_Configuration 'SPST'
+PRP Voltage_Rating_(DC) '12V'
+PRP Weight '0.000776oz'
+PRP Width '3mm'
+TOP 0 47.7500188 18.699988 0 N 89 30 SW1-1
+TOP 1 51.150012 18.699988 0 N 92 171 SW1-2
+#
+# CMP 85
+CMP 13 36.20000126 17.79999996 0 N empty_name 110-00036 ;0=1,1=0.6500
+PRP Arena_Link 'https://app.bom.com/a/9RAIOVEVEXW60AQ2?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '200mA'
+PRP Diode_Type 'Schottky'
+PRP Height '0.6mm'
+PRP Item_Phase 'Preliminary'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_P/N 'RB521S30T1G'
+PRP MFG_Package 'SOD-523'
+PRP Package_Type 'SOD'
+PRP Part_Name 'Diode Schottky 30V 200mA SOD523'
+PRP Part_Number '110-00036'
+PRP Part_Type 'Diode'
+PRP Pins '2'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'RB521S30T1GOSCT-ND'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '30V'
+TOP 0 36.9000024 17.8000152 0 N 37 8 empty_name-A
+TOP 1 35.5000052 17.8000152 0 N 59 1 empty_name-C
+#
+# CMP 86
+CMP 1 55.70000036 20.44999974 180 N C11 UBXH01-000801512P ;0=1,1=0.6000
+PRP Editor 'andreas.thiel'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_P/N 'GRM1555C1H120KZ01'
+PRP Max_Voltage '25.0V'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'Obsolete'
+PRP Part_Number 'UBXH01-0008015'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'NONPREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Size '0x0y'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5383'
+PRP Value '12P'
+TOP 0 56.0999894 20.4499972 90 N 16 7 C11-1
+TOP 1 55.299991 20.4499972 90 N 92 139 C11-2
+#
+# CMP 87
+CMP 1 55.65000046 26.60000014 180 N C10 UBXH01-000801512P ;0=1,1=0.6000
+PRP Editor 'andreas.thiel'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_P/N 'GRM1555C1H120KZ01'
+PRP Max_Voltage '25.0V'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'Obsolete'
+PRP Part_Number 'UBXH01-0008015'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'NONPREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Size '0x0y'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=5383'
+PRP Value '12P'
+TOP 0 56.0499895 26.60001284 90 N 15 4 C10-1
+TOP 1 55.2499911 26.60001284 90 N 92 168 C10-2
+#
+# CMP 88
+CMP 2 29.90000116 19.70000124 180 N C4 UBXH01-000004010U ;0=1,1=0.9500
+PRP Editor 'pierpaolo.arban'
+PRP Env 'ROHS'
+PRP Manufacturer 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_2 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_3 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_P/N 'LMK107BBJ106MALT'
+PRP Manufacturer_P/N_2 'GRM188R61A106KAAL'
+PRP Manufacturer_P/N_3 'LMK107BJ106MALTD'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=16905'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27232'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=29392'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'NRND'
+PRP Part_Number 'UBXH01-0000040'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2013-01-10 11:54:39.678233'
+PRP Released_by 'matej.budin'
+PRP Size '0603'
+PRP Tolerance '20%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=16909'
+PRP Value '10U'
+TOP 0 30.5500024 19.70000124 90 N 94 47 C4-1
+TOP 1 29.24999992 19.70000124 90 N 92 151 C4-2
+#

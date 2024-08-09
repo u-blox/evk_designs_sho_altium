@@ -1,0 +1,317 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 13 29.42999956 21.52000014 180 N empty_name UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05 09:49:55.978616'
+PRP Released_by 'peter.mueller'
+PRP Size '0x0y'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 29.03000036 21.52000014 90 N 86 16 empty_name-1
+TOP 1 29.82999876 21.52000014 90 N 60 14 empty_name-2
+#
+# CMP 1
+CMP 17 61.60000126 21.10000098 270 N 9 TP ;0=1,1=0.3300
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 61.5999657 21.1000213 270 N 26 2 9-1
+#
+# CMP 2
+CMP 17 64.52498398 26.15000358 270 N 11 TP ;0=1,1=0.3300
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 64.52499922 26.15000104 270 N 24 4 11-1
+#
+# CMP 3
+CMP 18 57.67503578 28.24999938 270 N 2 TP ;0=1,1=0.3300
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 57.67500022 28.14999958 270 N 85 15 2-1
+#
+# CMP 4
+CMP 17 56.449976 18.6500262 270 N 6 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 56.44999886 18.6500008 270 N 28 3 6-1
+#
+# CMP 5
+CMP 17 58.40000004 22.60000052 270 N 4 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 58.40000004 22.60004878 270 N 30 4 4-1
+#
+# CMP 6
+CMP 17 56.20998918 23.27000934 270 N 7 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 56.20999934 23.26999918 270 N 27 4 7-1
+#
+# CMP 7
+CMP 17 54.83999954 21.3400005 270 N 8 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 54.84001986 21.34001066 270 N 76 4 8-1
+#
+# CMP 8
+CMP 17 63.33000034 19.78000108 270 N 5 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 63.3299978 19.78001632 270 N 29 4 5-1
+#
+# CMP 9
+CMP 17 66.09999988 31.09999876 270 N 3 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 66.10000242 31.1000267 270 N 31 4 3-1
+#
+# CMP 10
+CMP 17 64.23997566 23.79001846 270 N 12 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 64.24000106 23.79000068 270 N 64 3 12-1
+#
+# CMP 11
+CMP 17 65.50000108 20.49999964 270 N 13 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 65.50000362 20.50000726 270 N 63 4 13-1
+#
+# CMP 12
+CMP 17 67.39999982 16.89999922 180 N 1 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 67.39998712 16.900017 0 N 38 3 1-1
+#
+# CMP 13
+CMP 17 59.15000108 19.5999989 270 N 10 TP ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 59.15002902 19.60001668 270 N 25 4 10-1
+#
+# CMP 14
+CMP 5 35.59999992 20.67999928 90 N J4 130-00099 ;0=1,1=5.9600
+PRP Arena_Link 'https://app.bom.com/a/5N6EKRARATS7TSHL?v=spec.summary'
+PRP Color 'Black'
+PRP Component_Mounting_Type 'SMT'
+PRP Connector_Type 'Header'
+PRP DNP ''
+PRP Height '6mm'
+PRP Item_Phase 'Pre-Production'
+PRP Keyed 'Yes'
+PRP Length '12.75mm'
+PRP Locking 'No'
+PRP Manufacturer 'Samtec'
+PRP Manufacturer_P/N 'FTSH-105-01-F-DV-K'
+PRP Part_Name 'CON HDR 0.05_ 10Pin 2Row SMD Black'
+PRP Part_Number '130-00099'
+PRP Part_Type 'Connector'
+PRP Pin_Pitch '0.050_'
+PRP Pins '10'
+PRP Revision '1'
+PRP Rows '2'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SAM8796-ND'
+PRP Use_in_new_designs 'Yes'
+PRP Width '4.78'
+TOP 0 37.5499884 23.2200196 180 N 94 52 J4-1
+TOP 1 33.6500216 23.2200196 180 N 65 10 J4-2
+TOP 2 37.5499884 21.9500196 180 N 92 110 J4-3
+TOP 3 33.6500216 21.9500196 180 N 68 10 J4-4
+TOP 4 37.5499884 20.6800196 180 N 92 109 J4-5
+TOP 5 33.6500216 20.6800196 180 N 67 9 J4-6
+TOP 6 37.5499884 19.4100196 180 N 0 0 J4-7
+TOP 7 33.6500216 19.4100196 180 N 66 9 J4-8
+TOP 8 37.5499884 18.1400196 180 N 92 108 J4-9
+TOP 9 33.6500216 18.1400196 180 N 89 31 J4-10
+#
+# CMP 15
+CMP 16 45.65000014 26.77999978 90 N J3 TC2050-IDC-NLDNP ;0=1,1=0.0000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2050-IDC-NL'
+PRP Part_Number 'TC2050-IDC-NL'
+PRP Size '6.1mm x 9.9mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 45.6499976 26.7800074 90 N 94 53 J3-1
+TOP 1 45.6499976 25.5100074 90 N 65 11 J3-2
+TOP 2 45.6499976 24.2400074 90 N 92 165 J3-3
+TOP 3 45.6499976 22.9700074 90 N 68 11 J3-4
+TOP 4 45.6499976 21.7000074 90 N 86 15 J3-5
+TOP 5 44.3799976 21.7000074 90 N 67 10 J3-6
+TOP 6 44.3799976 22.9700074 90 N 0 2 J3-7
+TOP 7 44.3799976 24.2400074 90 N 66 10 J3-8
+TOP 8 44.3799976 25.5100074 90 N 0 1 J3-9
+TOP 9 44.3799976 26.7800074 90 N 89 32 J3-10
+TOP 10 45.0149976 28.0500074 90 N 0 5 J3-A
+TOP 11 46.0309976 20.4300074 90 N 0 4 J3-B
+TOP 12 43.9989976 20.4300074 90 N 0 3 J3-C
+#

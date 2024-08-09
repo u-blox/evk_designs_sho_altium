@@ -1,0 +1,49 @@
+Board Information Report
+Filename     : C:\Users\lkis\Desktop\USB-NORA-W1\USB-IRIS-W1.PcbDoc
+Date         : 13-09-2022
+Time         : 14:48:39
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 78.3mmx24mm
+    Components on board, 81
+count : 2
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 302, 0, 4, 1, 0, 60, 0
+    Layer 2, 0, 0, 0, 0, 1, 0, 0, 0
+    Layer 3, 0, 0, 0, 0, 1, 0, 3, 0
+    Bottom Layer, 0, 40, 0, 0, 1, 0, 34, 0
+    Mechanical 1, 4, 0, 0, 16, 0, 0, 0, 0
+    Top Component Center, 0, 0, 0, 4, 0, 0, 0, 0
+    Bottom Component Center, 0, 0, 0, 0, 0, 0, 0, 0
+    Constraint, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Courtyard, 0, 0, 0, 8, 0, 0, 0, 0
+    Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
+    Top 3D Body, 0, 0, 0, 24, 0, 0, 0, 2
+    Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
+    Top plating, 0, 0, 0, 0, 0, 0, 1, 0
+    Mechanical 10, 0, 0, 0, 8, 0, 0, 0, 0
+    PIN_NUM, 0, 0, 0, 0, 83, 0, 0, 0
+    Top Assembly, 0, 0, 0, 15, 4, 0, 0, 0
+    Mechanical 13, 23, 0, 0, 246, 0, 0, 0, 197
+    Bottom Assembly, 0, 0, 0, 0, 0, 0, 0, 0
+    Assembly Notes, 5, 0, 0, 448, 1, 0, 0, 0
+    Mechanical 16, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 17, 0, 0, 0, 0, 0, 0, 0, 0
+    Dimensions, 0, 0, 0, 0, 0, 0, 0, 0
+    Route Tool Path, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 2, 0, 0, 0, 0, 8, 0, 0, 0
+    Outline, 0, 0, 0, 6, 0, 0, 0, 0
+    Route Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 37, 0, 0, 0, 0, 2, 0
+    Top Paste, 0, 0, 0, 0, 0, 1, 0, 0
+    Top Overlay, 7, 0, 0, 87, 120, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 31, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 31, 0
+    Bottom Overlay, 17, 0, 0, 8, 91, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 347, 50, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 1, 0, 0, 24, 46, 0, 0, 0
+count : 36
