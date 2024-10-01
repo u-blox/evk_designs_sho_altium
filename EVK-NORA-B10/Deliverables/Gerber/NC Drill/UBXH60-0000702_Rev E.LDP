@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\PCB\NORA-B1-EVK.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ubxh60-0000702_rev e-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ubxh60-0000702_rev e-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=L2_L3_Buried_Vias|DrillFile=ubxh60-0000702_rev e-roundholes.tx2|DrillLayers=g1,g2
+LayersSetName=L1_L2_Blind_Vias|DrillFile=ubxh60-0000702_rev e-roundholes.tx4|DrillLayers=gtl,g1
+LayersSetName=L3_L4_Blind_Vias|DrillFile=ubxh60-0000702_rev e-roundholes.tx6|DrillLayers=g2,gbl

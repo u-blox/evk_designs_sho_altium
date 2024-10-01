@@ -1,0 +1,950 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 5 11.52703562 3.33499968 180 N SW9 UBXH19-0000039 ;0=1,1=5.5000
+PRP Arena_Link ''
+PRP Color 'Silver'
+PRP Component_Mounting_Type 'SMT'
+PRP Current '200mA'
+PRP DNP ''
+PRP Editor 'evgenii.platonov'
+PRP Env 'ROHS'
+PRP Height '5.5mm'
+PRP Item_Phase 'Preliminary'
+PRP Length '12mm'
+PRP Manufacturer 'Nidec Copal Electronics'
+PRP Manufacturer_P/N 'CL-SB-13B-01T'
+PRP Max_Operating_Temp '85°C'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=33528'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Name 'SWITCH SLIDE SP3T 300MA 6V SMD'
+PRP Part_Number 'UBXH19-0000039'
+PRP Part_Type 'Switch'
+PRP Part_Type 'Switch'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP Pins '4'
+PRP RefDes 'S'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '563-1330-2-ND'
+PRP Switch/Button_Circuit 'SP3T'
+PRP Switch/Button_Function 'On-On-On'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=33526'
+PRP Use_in_new_designs 'Yes'
+PRP Value 'CL-SB-13B-01T'
+PRP Voltage '12V'
+PRP Width '3.5mm'
+TOP 0 7.52703854 1.13500154 0 N 22 0 1
+TOP 1 9.52703454 5.53500036 0 N 51 0 2
+TOP 2 13.52703924 5.53500036 0 N 53 0 3
+TOP 3 15.52703524 1.13500154 0 N 0 53 4
+TOP 4 8.52703654 3.33499968 0 N 0 212 EPAD
+TOP 5 16.52703578 3.33500222 0 N 0 213 EPAD
+#
+# CMP 1
+CMP 40 34.6456 8.2804 270 N TP77 TP ;0=1,1=1.9000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 34.6456 8.2804 270 N 41 0 1
+#
+# CMP 2
+CMP 43 103.0478 46.1772 90 N TP58 UBXH00-0000097 ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000097'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38793'
+TOP 0 103.0478 46.1772 180 N 180 126 1
+#
+# CMP 3
+CMP 43 2.794 48.133 0 N TP59 UBXH00-0000097 ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000097'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38793'
+TOP 0 2.794 48.133 270 N 180 124 1
+#
+# CMP 4
+CMP 41 89.0524 29.2354 270 N TP74 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 29.2354 270 N 173 2 1
+#
+# CMP 5
+CMP 41 83.3374 29.2354 270 N TP75 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 29.2354 270 N 137 0 1
+#
+# CMP 6
+CMP 41 89.0524 31.76905 270 N TP72 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 31.76905 270 N 138 0 1
+#
+# CMP 7
+CMP 41 83.3374 31.76905 270 N TP73 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 31.76905 270 N 139 0 1
+#
+# CMP 8
+CMP 41 13.716 53.086 270 N TP53 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 13.716 53.086 270 N 140 0 1
+#
+# CMP 9
+CMP 41 53.34 2.794 270 N TP78 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 53.34 2.794 270 N 44 0 1
+#
+# CMP 10
+CMP 41 50.8 2.794 270 N TP79 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 50.8 2.794 270 N 45 0 1
+#
+# CMP 11
+CMP 41 89.0524 34.3027 270 N TP70 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 34.3027 270 N 143 0 1
+#
+# CMP 12
+CMP 41 83.3374 34.3027 270 N TP71 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 34.3027 270 N 144 0 1
+#
+# CMP 13
+CMP 41 89.0524 36.83635 270 N TP68 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 36.83635 270 N 145 0 1
+#
+# CMP 14
+CMP 41 83.3374 36.83635 270 N TP69 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 36.83635 270 N 146 0 1
+#
+# CMP 15
+CMP 41 89.0524 39.37 270 N TP66 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 39.37 270 N 147 0 1
+#
+# CMP 16
+CMP 41 83.3374 39.37 270 N TP67 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 39.37 270 N 148 0 1
+#
+# CMP 17
+CMP 40 89.0524 41.90365 270 N TP64 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 41.90365 270 N 149 0 1
+#
+# CMP 18
+CMP 40 83.3374 41.90365 270 N TP65 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 41.90365 270 N 150 0 1
+#
+# CMP 19
+CMP 40 89.0524 44.4373 270 N TP62 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 44.4373 270 N 151 0 1
+#
+# CMP 20
+CMP 40 83.3374 44.4373 270 N TP63 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 44.4373 270 N 152 0 1
+#
+# CMP 21
+CMP 40 89.0524 46.97095 270 N TP60 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 46.97095 270 N 153 0 1
+#
+# CMP 22
+CMP 40 83.3374 46.97095 270 N TP61 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 46.97095 270 N 154 0 1
+#
+# CMP 23
+CMP 41 89.0524 49.5046 270 N TP56 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 49.5046 270 N 46 0 1
+#
+# CMP 24
+CMP 41 83.3374 49.5046 270 N TP57 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 49.5046 270 N 156 0 1
+#
+# CMP 25
+CMP 41 58.42 53.086 270 N TP37 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 58.42 53.086 270 N 157 0 1
+#
+# CMP 26
+CMP 41 60.96 53.086 270 N TP36 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 60.96 53.086 270 N 159 0 1
+#
+# CMP 27
+CMP 41 63.5 53.086 270 N TP35 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 63.5 53.086 270 N 161 0 1
+#
+# CMP 28
+CMP 41 66.04 53.086 270 N TP34 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 66.04 53.086 270 N 162 0 1
+#
+# CMP 29
+CMP 41 45.72 2.794 270 N TP80 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 45.72 2.794 270 N 163 0 1
+#
+# CMP 30
+CMP 41 43.18 2.794 270 N TP81 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 43.18 2.794 270 N 164 0 1
+#
+# CMP 31
+CMP 41 40.64 2.794 270 N TP82 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 40.64 2.794 270 N 165 0 1
+#
+# CMP 32
+CMP 40 68.58 53.086 270 N TP33 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 68.58 53.086 270 N 166 0 1
+#
+# CMP 33
+CMP 40 71.12 53.086 270 N TP32 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 71.12 53.086 270 N 167 0 1
+#
+# CMP 34
+CMP 41 73.66 53.086 270 N TP31 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 73.66 53.086 270 N 168 0 1
+#
+# CMP 35
+CMP 41 76.2 53.086 270 N TP30 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 76.2 53.086 270 N 169 0 1
+#
+# CMP 36
+CMP 1 14.34999924 27.91899928 270 N BAT1 UBXH03-0000010 ;0=1,1=4.0500
+PRP Editor 'eric.moog'
+PRP Env 'ROHS'
+PRP Manufacturer_P/N ''
+PRP Max_Operating_Temp '105°C'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH03-0000010'
+PRP Part_Type 'Battery'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'BT'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38906'
+TOP 0 14.34999924 14.83799928 270 N 50 0 1
+TOP 1 14.34999924 40.99999928 270 N 50 1 1
+TOP 2 14.34999924 27.91899928 270 N 180 125 2
+#
+# CMP 37
+CMP 41 25.4 2.794 270 N TP85 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 25.4 2.794 270 N 127 1 1
+#
+# CMP 38
+CMP 41 27.94 2.794 270 N TP84 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 27.94 2.794 270 N 188 1 1
+#
+# CMP 39
+CMP 41 30.48 2.794 270 N TP83 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 30.48 2.794 270 N 180 129 1
+#
+# CMP 40
+CMP 41 16.256 53.086 270 N TP52 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 16.256 53.086 270 N 180 127 1
+#
+# CMP 41
+CMP 41 89.0524 26.6954 270 N TP76 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 89.0524 26.6954 270 N 180 128 1
+#
+# CMP 42
+CMP 41 53.33999492 53.086 270 N TP38 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 53.33999492 53.086 270 N 116 0 1
+#
+# CMP 43
+CMP 41 50.79999492 53.086 270 N TP39 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 50.79999492 53.086 270 N 115 0 1
+#
+# CMP 44
+CMP 41 11.176 53.086 270 N TP54 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 11.176 53.086 270 N 114 0 1
+#
+# CMP 45
+CMP 41 8.636 53.086 270 N TP55 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 8.636 53.086 270 N 113 0 1
+#
+# CMP 46
+CMP 41 48.26 53.086 270 N TP40 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 48.26 53.086 270 N 112 0 1
+#
+# CMP 47
+CMP 41 45.72 53.086 270 N TP41 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 45.72 53.086 270 N 111 0 1
+#
+# CMP 48
+CMP 41 43.18 53.086 270 N TP42 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 43.18 53.086 270 N 110 0 1
+#
+# CMP 49
+CMP 41 40.64 53.086 270 N TP43 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 40.64 53.086 270 N 109 0 1
+#
+# CMP 50
+CMP 41 38.1 53.086 270 N TP44 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 38.1 53.086 270 N 108 0 1
+#
+# CMP 51
+CMP 41 35.56 53.086 270 N TP45 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 35.56 53.086 270 N 107 0 1
+#
+# CMP 52
+CMP 41 31.49599492 53.086 270 N TP46 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 31.49599492 53.086 270 N 106 0 1
+#
+# CMP 53
+CMP 41 28.95599492 53.086 270 N TP47 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 28.95599492 53.086 270 N 105 0 1
+#
+# CMP 54
+CMP 41 26.41599492 53.086 270 N TP48 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 26.41599492 53.086 270 N 104 0 1
+#
+# CMP 55
+CMP 41 23.87599492 53.086 270 N TP49 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 23.87599492 53.086 270 N 103 0 1
+#
+# CMP 56
+CMP 41 21.336 53.086 270 N TP50 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 21.336 53.086 270 N 102 0 1
+#
+# CMP 57
+CMP 41 18.796 53.086 270 N TP51 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 18.796 53.086 270 N 101 0 1
+#
+# CMP 58
+CMP 40 38.1 2.794 270 N JMODHT1 TP ;0=1,1=1.9000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 38.1 2.794 270 N 128 1 1
+#
+# CMP 59
+CMP 40 95.504 38.227 270 N JMODT1 TP ;0=1,1=1.9000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 95.504 38.227 270 N 98 0 1
+#
+# CMP 60
+CMP 40 19.304 44.6024 270 N TPRST1 TP ;0=1,1=1.9000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 19.304 44.6024 270 N 179 0 1
+#
+# CMP 61
+CMP 40 22.25675 42.672 270 N TPCLK1 TP ;0=1,1=1.9000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 22.25675 42.672 270 N 83 0 1
+#
+# CMP 62
+CMP 40 23.241 44.6024 270 N TPSWO1 TP ;0=1,1=1.9000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 23.241 44.6024 270 N 81 0 1
+#
+# CMP 63
+CMP 40 20.28825 42.672 270 N TPDIO1 TP ;0=1,1=1.9000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 20.28825 42.672 270 N 82 0 1
+#
+# CMP 64
+CMP 41 83.3374 8.636 270 N JV-USB1 TP ;0=1,1=0.0000
+PRP Editor 'eric.moog'
+PRP Env 'N/A'
+PRP Max_Operating_Temp '125°C'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH00-0000096'
+PRP Part_Type 'Testpoint'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'TP'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=38784'
+TOP 0 83.3374 8.636 270 N 198 0 1
+#

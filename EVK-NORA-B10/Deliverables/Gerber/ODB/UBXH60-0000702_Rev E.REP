@@ -1,0 +1,204 @@
+*************************************************************
+FileName = NORA-B1-EVK.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_l4-l1\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_l4-l1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_l4-l1\tools
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\core\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\core\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_micro_vias_l1-l2\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_micro_vias_l1-l2\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_micro_vias_l1-l2\tools
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_micro_vias_l3-l4\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_micro_vias_l3-l4\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_micro_vias_l3-l4\tools
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_l2-l3\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_l2-l3\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_blind_vias_l2-l3\tools
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_l4-l1\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_l4-l1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_l4-l1\tools
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\route_tool_path\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\route_tool_path\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_l3-l4\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_l3-l4\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_l1-l2\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_l1-l2\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_l2-l3\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_l2-l3\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\border___title\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\border___title\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\rigid_outline\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\rigid_outline\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_l1-l4\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_l1-l4\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\fabrication_notes\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\fabrication_notes\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_bottom\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_bottom\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\l2\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\l2\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\coutryard_bottom\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\coutryard_bottom\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_bottom\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_bottom\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_top\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\courtyard_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\courtyard_top\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\l3\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\l3\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\l4\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\l4\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_top\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\l1\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\l1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_l1-l4\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_l1-l4\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_l1-l2\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_l1-l2\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_l2-l3\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_l2-l3\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_l3-l4\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_l3-l4\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect126.63424x2860.94424_95\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect224.06102x94.68104_135\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect224.06102x94.68104_45\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect6052.19516x97.1677_136\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect5912.93966x97.1677_44\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect126.63424x2817.29688_85\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect126.63424x2860.94424_95\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect224.06102x94.68104_135\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect224.06102x94.68104_45\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect6052.19516x97.1677_136\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect5912.93966x97.1677_44\features
+
+Generated File : C:\Users\Public\Documents\Altium\EVK-NORA-B10 - Copy\.\Fabrication\ODB\odb\symbols\uds_rect126.63424x2817.29688_85\features
+
