@@ -84,7 +84,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TRNWUIIJ
 
 [Document3]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0001_NORA_B1_Module.SchDoc
@@ -101,7 +101,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ASWHOPWP
 
 [Document4]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0002_Power.SchDoc
@@ -118,7 +118,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BDHQMLDY
 
 [Document5]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0003_Shield_Conn.SchDoc
@@ -135,7 +135,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GIJUYUGM
 
 [Document6]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0004_Interface_MCU.SchDoc
@@ -152,7 +152,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BFXOJYTA
 
 [Document7]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0005_Interface_Isolation.SchDoc
@@ -169,7 +169,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YHUUTXIA
 
 [Document8]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0006_Accessories.SchDoc
@@ -186,77 +186,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YRIVMSHV
 
 [Document9]
-DocumentPath=Source\UBX_NORA_B1_SCHEM_0001_NORA_B1_Module.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
-DocumentPath=Source\UBX_NORA_B1_SCHEM_0006_Accessories.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=Source\UBX_NORA_B1_SCHEM_0003_Shield_Conn.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=Source\UBX_NORA_B1_SCHEM_0004_Interface_MCU.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=Source\PCB\NORA-B1-EVK.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -273,7 +205,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document10]
 DocumentPath=Source\Footprints\MK22FN128VDC10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,7 +222,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document11]
 DocumentPath=Source\Symbols\MK22FN128VDC10.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -307,24 +239,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKGWKOCH
 
-[Document16]
-DocumentPath=Source\UBX_NORA_B1_SCHEM_0005_Interface_Isolation.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document17]
+[Document12]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0001_NORA_B1_Module.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +256,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document13]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0003_Shield_Conn.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -358,7 +273,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document14]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0004_Interface_MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -375,7 +290,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document15]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0005_Interface_Isolation.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -392,7 +307,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document16]
 DocumentPath=Source\Schematic\UBX_NORA_B1_SCHEM_0006_Accessories.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1486,14 +1401,6 @@ Variation27=Designator=R86|UniqueId=\BQCKQCUM|Kind=1|AlternatePart=
 Variation28=Designator=R47|UniqueId=\GWGHXNXP|Kind=1|AlternatePart=
 Variation29=Designator=U3|UniqueId=\GAPMMJCY|Kind=1|AlternatePart=
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=BOM\EVK-NORA-B10_Rev E_Arena_Export.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=PCB\NORA-B1-EVK 6-18-2020 6-56-10 AM.WAS
-DItemRevisionGUID=
 
 [Parameter1]
 Name=GlobalClientName
