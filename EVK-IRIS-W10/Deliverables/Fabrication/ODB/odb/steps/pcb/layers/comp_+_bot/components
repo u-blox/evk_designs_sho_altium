@@ -1,0 +1,3655 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 65 60.579 65.6844 0 N J45 TC2050-IDC-NLDNP ;0=1,1=0.6000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2050-IDC-NL'
+PRP Part_Number 'TC2050-IDC-NL'
+PRP Size '6.1mm x 9.9mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 60.579 65.6844 180 N 19 6 1
+TOP 1 59.309 65.6844 180 N 125 9 2
+TOP 2 58.039 65.6844 180 N 421 534 3
+TOP 3 56.769 65.6844 180 N 127 7 4
+TOP 4 55.499 65.6844 180 N 421 535 5
+TOP 5 55.499 66.9544 180 N 0 130 6
+TOP 6 56.769 66.9544 180 N 0 129 7
+TOP 7 58.039 66.9544 180 N 0 128 8
+TOP 8 59.309 66.9544 180 N 421 536 9
+TOP 9 60.579 66.9544 180 N 419 8 10
+TOP 10 61.849 66.3194 180 N 0 144 A
+TOP 11 54.229 65.3034 180 N 0 143 B
+TOP 12 54.229 67.3354 180 N 0 142 C
+#
+# CMP 1
+CMP 16 80.44019726 66.2686 0 N U9 empty_part_name ;0=1,1=0.0000
+PRP Manufacturer_P/N ''
+PRP Mfr_Name 'BOURNS'
+PRP RefDes 'RefDes'
+PRP Type 'Type'
+TOP 0 81.44076676 68.06973686 180 N 320 6 1
+TOP 1 81.44076676 67.26973846 180 N 237 10 2
+TOP 2 81.44076676 66.46973752 180 N 0 125 3
+TOP 3 81.44076676 65.66973912 180 N 318 7 4
+TOP 4 81.44076676 64.86973818 180 N 316 7 5
+TOP 5 79.44076568 64.46973898 180 N 315 7 6
+TOP 6 79.44076568 65.26973738 180 N 317 6 7
+TOP 7 79.44076568 66.06973832 180 N 0 126 8
+TOP 8 79.44076568 66.86973672 180 N 421 533 9
+TOP 9 79.44076568 67.66973766 180 N 319 4 10
+TOP 10 80.44076622 66.66973712 270 N 421 532 11
+#
+# CMP 2
+CMP 66 28.22739846 83.60899966 270 N TP33 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 28.22739846 83.60899966 270 N 421 530 1
+#
+# CMP 3
+CMP 66 29.64339766 4.50000116 270 N TP112 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 29.64339766 4.50000116 270 N 240 8 1
+#
+# CMP 4
+CMP 66 27.81339624 4.50000116 270 N TP111 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 27.81339624 4.50000116 270 N 241 11 1
+#
+# CMP 5
+CMP 66 16.59839708 4.50000116 270 N TP142 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 16.59839708 4.50000116 270 N 344 11 1
+#
+# CMP 6
+CMP 66 14.7683982 4.50000116 270 N TP141 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 14.7683982 4.50000116 270 N 345 11 1
+#
+# CMP 7
+CMP 66 12.93839678 4.50000116 270 N TP22 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 12.93839678 4.50000116 270 N 341 22 1
+#
+# CMP 8
+CMP 66 18.4283985 4.50000116 0 N TP1 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 18.4283985 4.50000116 180 N 89 14 1
+#
+# CMP 9
+CMP 66 67.7733976 4.50000116 270 N TP32 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 67.7733976 4.50000116 270 N 136 8 1
+#
+# CMP 10
+CMP 66 65.94339618 4.50000116 270 N TP31 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 65.94339618 4.50000116 270 N 137 7 1
+#
+# CMP 11
+CMP 66 40.15579726 68.58 270 N TP24 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 40.15579726 68.58 270 N 421 529 1
+#
+# CMP 12
+CMP 66 30.05739734 83.60899966 270 N TP16 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 30.05739734 83.60899966 270 N 421 526 1
+#
+# CMP 13
+CMP 66 69.60339648 4.50000116 270 N TP4 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 69.60339648 4.50000116 270 N 421 527 1
+#
+# CMP 14
+CMP 66 64.1133973 4.50000116 270 N TP2 TP ;0=1,1=0.6000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 64.1133973 4.50000116 270 N 421 528 1
+#
+# CMP 15
+CMP 54 88.13639726 63.7032 270 N J99 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 88.13639726 63.7032 270 N 422 157 1
+TOP 1 88.13639726 64.37883746 270 N 237 9 2
+#
+# CMP 16
+CMP 6 84.4341974 60.99999992 0 N C114 120-000770.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_Part_Number_1 'GRM155R71C104KA88D'
+PRP Manufacturer_Part_Number_2 '0402YC104KAT2A'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1uF 16V 10% X7R 0402'
+PRP Part_Number '120-00077'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-3261-1-ND'
+PRP Supplier_Part_Number_2 '478-7888-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '16V'
+TOP 0 84.8341966 60.99999992 270 N 315 6 1
+TOP 1 84.0341982 60.99999992 270 N 421 520 2
+#
+# CMP 17
+CMP 6 84.4341974 62.5348 0 N C113 120-000770.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_Part_Number_1 'GRM155R71C104KA88D'
+PRP Manufacturer_Part_Number_2 '0402YC104KAT2A'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1uF 16V 10% X7R 0402'
+PRP Part_Number '120-00077'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-3261-1-ND'
+PRP Supplier_Part_Number_2 '478-7888-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '16V'
+TOP 0 84.8341966 62.5348 270 N 316 6 1
+TOP 1 84.0341982 62.5348 270 N 421 521 2
+#
+# CMP 18
+CMP 6 84.4341974 64.5668 0 N C112 120-000770.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_Part_Number_1 'GRM155R71C104KA88D'
+PRP Manufacturer_Part_Number_2 '0402YC104KAT2A'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1uF 16V 10% X7R 0402'
+PRP Part_Number '120-00077'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-3261-1-ND'
+PRP Supplier_Part_Number_2 '478-7888-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '16V'
+TOP 0 84.8341966 64.5668 270 N 317 5 1
+TOP 1 84.0341982 64.5668 270 N 421 522 2
+#
+# CMP 19
+CMP 6 84.4341974 66.59999888 0 N C101 120-000770.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_Part_Number_1 'GRM155R71C104KA88D'
+PRP Manufacturer_Part_Number_2 '0402YC104KAT2A'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1uF 16V 10% X7R 0402'
+PRP Part_Number '120-00077'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-3261-1-ND'
+PRP Supplier_Part_Number_2 '478-7888-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '16V'
+TOP 0 84.8341966 66.59999888 270 N 318 6 1
+TOP 1 84.0341982 66.59999888 270 N 421 531 2
+#
+# CMP 20
+CMP 6 84.4341974 67.91099956 0 N C100 120-000770.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_Part_Number_1 'GRM155R71C104KA88D'
+PRP Manufacturer_Part_Number_2 '0402YC104KAT2A'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1uF 16V 10% X7R 0402'
+PRP Part_Number '120-00077'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-3261-1-ND'
+PRP Supplier_Part_Number_2 '478-7888-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '16V'
+TOP 0 84.8341966 67.91099956 270 N 319 3 1
+TOP 1 84.0341982 67.91099956 270 N 421 523 2
+#
+# CMP 21
+CMP 6 84.4341974 69.1642 0 N C99 120-000770.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_Part_Number_1 'GRM155R71C104KA88D'
+PRP Manufacturer_Part_Number_2 '0402YC104KAT2A'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1uF 16V 10% X7R 0402'
+PRP Part_Number '120-00077'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-3261-1-ND'
+PRP Supplier_Part_Number_2 '478-7888-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '16V'
+TOP 0 84.8341966 69.1642 270 N 320 5 1
+TOP 1 84.0341982 69.1642 270 N 421 524 2
+#
+# CMP 22
+CMP 41 58.26399828 105.98559956 90 N R143 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 58.26399828 106.38559876 180 N 126 5 1
+TOP 1 58.26399828 105.58560036 180 N 391 22 2
+#
+# CMP 23
+CMP 41 56.91779828 105.96019956 90 N R142 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 56.91779828 106.36019876 180 N 124 5 1
+TOP 1 56.91779828 105.56020036 180 N 390 18 2
+#
+# CMP 24
+CMP 41 61.9629698 99.09888994 90 N R136 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 61.9629698 99.49888914 180 N 117 11 1
+TOP 1 61.9629698 98.69889074 180 N 376 12 2
+#
+# CMP 25
+CMP 41 60.75219244 99.27028914 270 N R134 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 60.75219244 98.87028994 0 N 379 9 1
+TOP 1 60.75219244 99.67028834 0 N 119 11 2
+#
+# CMP 26
+CMP 65 50.16339726 59.9694 90 N J33 TC2050-IDC-NLDNP ;0=1,1=2.1000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2050-IDC-NL'
+PRP Part_Number 'TC2050-IDC-NL'
+PRP Size '6.1mm x 9.9mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 50.16339726 59.9694 90 N 91 42 1
+TOP 1 50.16339726 58.6994 90 N 40 11 2
+TOP 2 50.16339726 57.4294 90 N 421 509 3
+TOP 3 50.16339726 56.1594 90 N 41 12 4
+TOP 4 50.16339726 54.8894 90 N 421 510 5
+TOP 5 48.89339726 54.8894 90 N 42 12 6
+TOP 6 48.89339726 56.1594 90 N 43 9 7
+TOP 7 48.89339726 57.4294 90 N 0 122 8
+TOP 8 48.89339726 58.6994 90 N 421 511 9
+TOP 9 48.89339726 59.9694 90 N 95 9 10
+TOP 10 49.52839726 61.2394 90 N 0 133 A
+TOP 11 50.54439726 53.6194 90 N 0 132 B
+TOP 12 48.51239726 53.6194 90 N 0 131 C
+#
+# CMP 27
+CMP 43 29.84339726 55.8038 270 N R270 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 29.84339726 55.15379876 0 N 382 13 1
+TOP 1 29.84339726 56.45380124 0 N 121 9 2
+#
+# CMP 28
+CMP 66 32.15479726 104.3432 270 N TP15 TP ;0=1,1=2.1000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 32.15479726 104.3432 270 N 421 525 1
+#
+# CMP 29
+CMP 43 36.77759726 55.8086006 270 N R286 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 36.77759726 55.15859936 0 N 184 2 1
+TOP 1 36.77759726 56.45860184 0 N 351 7 2
+#
+# CMP 30
+CMP 43 38.15484876 55.8086006 270 N R284 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 38.15484876 55.15859936 0 N 185 4 1
+TOP 1 38.15484876 56.45860184 0 N 352 8 2
+#
+# CMP 31
+CMP 43 33.98924876 55.8086006 270 N R283 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 33.98924876 55.15859936 0 N 186 2 1
+TOP 1 33.98924876 56.45860184 0 N 354 10 2
+#
+# CMP 32
+CMP 43 44.27059726 55.8086006 270 N R282 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 44.27059726 55.15859936 0 N 377 4 1
+TOP 1 44.27059726 56.45860184 0 N 378 7 2
+#
+# CMP 33
+CMP 43 31.23474576 55.8086006 270 N R278 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 31.23474576 55.15859936 0 N 187 2 1
+TOP 1 31.23474576 56.45860184 0 N 355 7 2
+#
+# CMP 34
+CMP 43 32.61199726 55.8086006 270 N R277 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 32.61199726 55.15859936 0 N 188 2 1
+TOP 1 32.61199726 56.45860184 0 N 356 7 2
+#
+# CMP 35
+CMP 43 45.46439726 107.4928 0 N R273 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 46.1143985 107.4928 270 N 190 3 1
+TOP 1 44.81439602 107.4928 270 N 381 5 2
+#
+# CMP 36
+CMP 43 38.73339726 106.7054 180 N R269 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 38.08339602 106.7054 90 N 189 2 1
+TOP 1 39.3833985 106.7054 90 N 380 7 2
+#
+# CMP 37
+CMP 43 42.87359726 55.8086006 270 N R266 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 42.87359726 55.15859936 0 N 357 21 1
+TOP 1 42.87359726 56.45860184 0 N 358 8 2
+#
+# CMP 38
+CMP 43 41.49634322 55.8086006 270 N R264 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 41.49634322 55.15859936 0 N 359 20 1
+TOP 1 41.49634322 56.45860184 0 N 360 9 2
+#
+# CMP 39
+CMP 41 38.09267464 117.25363646 90 N R261 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 38.09267464 117.65363566 180 N 130 5 1
+TOP 1 38.09267464 116.85363726 180 N 131 5 2
+#
+# CMP 40
+CMP 41 33.98159828 118.25379956 270 N R259 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 33.98159828 117.85380036 0 N 133 8 1
+TOP 1 33.98159828 118.65379876 0 N 132 5 2
+#
+# CMP 41
+CMP 41 69.96805158 61.15818858 90 N R250 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 69.96805158 61.55818778 180 N 421 519 1
+TOP 1 69.96805158 60.75818938 180 N 159 11 2
+#
+# CMP 42
+CMP 41 68.96379654 61.15818858 270 N R248 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 68.96379654 60.75818938 0 N 159 10 1
+TOP 1 68.96379654 61.55818778 0 N 98 60 2
+#
+# CMP 43
+CMP 41 71.8940523 49.784 270 N R247 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 71.8940523 49.3840008 0 N 160 11 1
+TOP 1 71.8940523 50.1839992 0 N 421 518 2
+#
+# CMP 44
+CMP 41 70.88979726 49.784 270 N R246 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 70.88979726 49.3840008 0 N 160 12 1
+TOP 1 70.88979726 50.1839992 0 N 98 59 2
+#
+# CMP 45
+CMP 41 70.87604824 54.04259956 270 N R245 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 70.87604824 53.64260036 0 N 421 505 1
+TOP 1 70.87604824 54.44259876 0 N 161 13 2
+#
+# CMP 46
+CMP 41 69.8717932 54.04259956 90 N R243 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 69.8717932 54.44259876 180 N 161 12 1
+TOP 1 69.8717932 53.64260036 180 N 98 55 2
+#
+# CMP 47
+CMP 41 67.48619726 46.4312 270 N R242 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 67.48619726 46.0312008 0 N 172 8 1
+TOP 1 67.48619726 46.8311992 0 N 421 517 2
+#
+# CMP 48
+CMP 41 68.4904523 46.4312 270 N R241 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 68.4904523 46.0312008 0 N 172 7 1
+TOP 1 68.4904523 46.8311992 0 N 98 57 2
+#
+# CMP 49
+CMP 41 61.94899726 45.18035414 0 N R240 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 62.34899646 45.18035414 270 N 421 515 1
+TOP 1 61.54899806 45.18035414 270 N 171 5 2
+#
+# CMP 50
+CMP 41 61.97980238 46.18460918 180 N R239 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 61.57980318 46.18460918 90 N 171 6 1
+TOP 1 62.37980158 46.18460918 90 N 98 56 2
+#
+# CMP 51
+CMP 41 62.62114222 52.6796 90 N R238 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 62.62114222 53.0795992 180 N 166 6 1
+TOP 1 62.62114222 52.2796008 180 N 421 516 2
+#
+# CMP 52
+CMP 41 63.62539726 52.6796 90 N R237 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 63.62539726 53.0795992 180 N 166 5 1
+TOP 1 63.62539726 52.2796008 180 N 98 58 2
+#
+# CMP 53
+CMP 41 59.42633276 51.30781966 0 N R236 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 59.82633196 51.30781966 270 N 421 504 1
+TOP 1 59.02633356 51.30781966 270 N 165 4 2
+#
+# CMP 54
+CMP 41 59.42633276 50.30356462 180 N R235 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 59.02633356 50.30356462 90 N 165 5 1
+TOP 1 59.82633196 50.30356462 90 N 98 54 2
+#
+# CMP 55
+CMP 41 59.56139726 43.96734666 180 N R234 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 59.16139806 43.96734666 90 N 164 11 1
+TOP 1 59.96139646 43.96734666 90 N 421 501 2
+#
+# CMP 56
+CMP 41 59.63759726 42.9514 180 N R233 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 59.23759806 42.9514 90 N 164 10 1
+TOP 1 60.03759646 42.9514 90 N 98 51 2
+#
+# CMP 57
+CMP 41 59.63559828 53.82937926 0 N R232 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 60.03559748 53.82937926 270 N 421 502 1
+TOP 1 59.23559908 53.82937926 270 N 169 6 2
+#
+# CMP 58
+CMP 41 59.64399806 52.82512422 180 N R231 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 59.24399886 52.82512422 90 N 169 5 1
+TOP 1 60.04399726 52.82512422 90 N 98 52 2
+#
+# CMP 59
+CMP 41 67.2946584 43.08879876 270 N R230 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 67.2946584 42.68879956 0 N 167 6 1
+TOP 1 67.2946584 43.48879796 0 N 421 503 2
+#
+# CMP 60
+CMP 41 66.29040336 43.01899956 270 N R229 180-000232.2k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Rohm Semiconductor'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'MCR01MRTF2201'
+PRP Manufacturer_Part_Number_2 'RC0402FR-072K2L'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 2.2K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00023'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'RHM2.20KCDCT-ND'
+PRP Supplier_Part_Number_2 '311-2.20KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '2.2k'
+PRP Voltage 'None'
+TOP 0 66.29040336 42.61900036 0 N 167 5 1
+TOP 1 66.29040336 43.41899876 0 N 98 53 2
+#
+# CMP 61
+CMP 44 82.11459828 57.24299956 180 N R211 UBXH18-00000200R ;0=1,1=0.7100
+PRP Editor 'massimo.vlacci'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73Z2BT'
+PRP Max_Current '2A'
+PRP Max_Operating_Temp '125°C'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'NRND'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000020'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'R'
+PRP Release_Data '2010-03-15T11:02:19'
+PRP Released_by 'erian.bezhani'
+PRP Size '1206'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8587'
+PRP Value '0R'
+TOP 0 80.71459854 57.24299956 90 N 91 41 1
+TOP 1 83.51459802 57.24299956 90 N 422 156 2
+#
+# CMP 62
+CMP 41 28.74919828 52.72179956 0 N R172 180-000211k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'RCT021KFLF'
+PRP Manufacturer_Part_Number_2 'RC0402FR-071KL'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 1K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00021'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0E'
+PRP Size '0402'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '311-1.00KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '1k'
+PRP Voltage 'None'
+TOP 0 29.14919748 52.72179956 270 N 152 8 1
+TOP 1 28.34919908 52.72179956 270 N 422 151 2
+#
+# CMP 63
+CMP 41 36.19139828 52.67099956 180 N R167 180-000211k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'RCT021KFLF'
+PRP Manufacturer_Part_Number_2 'RC0402FR-071KL'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 1K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00021'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0E'
+PRP Size '0402'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '311-1.00KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '1k'
+PRP Voltage 'None'
+TOP 0 35.79139908 52.67099956 90 N 147 8 1
+TOP 1 36.59139748 52.67099956 90 N 421 499 2
+#
+# CMP 64
+CMP 41 43.67706022 53.63087318 180 N R166 180-000211k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'RCT021KFLF'
+PRP Manufacturer_Part_Number_2 'RC0402FR-071KL'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 1K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00021'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0E'
+PRP Size '0402'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '311-1.00KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '1k'
+PRP Voltage 'None'
+TOP 0 43.27706102 53.63087318 90 N 149 9 1
+TOP 1 44.07705942 53.63087318 90 N 422 152 2
+#
+# CMP 65
+CMP 41 46.36946022 50.04947318 180 N R160 180-000211k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'RCT021KFLF'
+PRP Manufacturer_Part_Number_2 'RC0402FR-071KL'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 1K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00021'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0E'
+PRP Size '0402'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '311-1.00KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '1k'
+PRP Voltage 'None'
+TOP 0 45.96946102 50.04947318 90 N 142 10 1
+TOP 1 46.76945942 50.04947318 90 N 422 150 2
+#
+# CMP 66
+CMP 41 46.44566022 48.75407318 180 N R156 180-000211k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'RCT021KFLF'
+PRP Manufacturer_Part_Number_2 'RC0402FR-071KL'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 1K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00021'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0E'
+PRP Size '0402'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '311-1.00KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '1k'
+PRP Voltage 'None'
+TOP 0 46.04566102 48.75407318 90 N 143 8 1
+TOP 1 46.84565942 48.75407318 90 N 421 498 2
+#
+# CMP 67
+CMP 41 46.49646022 47.58567318 180 N R155 180-000211k ;0=1,1=0.4000
+PRP Height '0.4mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'RCT021KFLF'
+PRP Manufacturer_Part_Number_2 'RC0402FR-071KL'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 1K OHM 1% 1/16W 0402'
+PRP Part_Number '180-00021'
+PRP Pins '2'
+PRP Power '1/16W'
+PRP Revision '0E'
+PRP Size '0402'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '311-1.00KLRCT-ND'
+PRP Tolerance '+/- 1%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '1k'
+PRP Voltage 'None'
+TOP 0 46.09646102 47.58567318 90 N 144 8 1
+TOP 1 46.89645942 47.58567318 90 N 422 149 2
+#
+# CMP 68
+CMP 43 35.38059726 55.8086006 270 N R115 UBXH18-00030010R ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 35.38059726 55.15859936 0 N 361 1 1
+TOP 1 35.38059726 56.45860184 0 N 362 10 2
+#
+# CMP 69
+CMP 41 56.79279726 71.62164492 0 N R49 UBXH18-0000005100K ;0=1,1=0.4000
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'ROHM'
+PRP Manufacturer_P/N 'RK73H1ETTP1003F'
+PRP Manufacturer_P/N_2 'MCR01MZPF1003'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8186'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Part_Number 'UBXH18-0000005'
+PRP Part_Type 'Resistor'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-11-30T11:05:22'
+PRP Released_by 'sandro.sestan'
+PRP Size '0402'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8114'
+PRP Value '100K'
+TOP 0 57.19279646 71.62164492 270 N 16 8 1
+TOP 1 56.39279806 71.62164492 270 N 422 148 2
+#
+# CMP 70
+CMP 41 56.79279726 74.19974492 180 N R47 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 56.39279806 74.19974492 90 N 421 512 1
+TOP 1 57.19279646 74.19974492 90 N 106 18 2
+#
+# CMP 71
+CMP 41 20.24019828 68.8169312 0 N R36 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 20.64019748 68.8169312 270 N 159 9 1
+TOP 1 19.84019908 68.8169312 270 N 416 10 2
+#
+# CMP 72
+CMP 41 20.24019828 70.28166284 0 N R34 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 20.64019748 70.28166284 270 N 160 10 1
+TOP 1 19.84019908 70.28166284 270 N 414 8 2
+#
+# CMP 73
+CMP 41 20.24019828 67.35219956 0 N R33 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 20.64019748 67.35219956 270 N 161 14 1
+TOP 1 19.84019908 67.35219956 270 N 415 10 2
+#
+# CMP 74
+CMP 41 20.24019828 71.74639448 0 N R32 UBXH18-00030020R ;0=1,1=0.4000
+PRP Editor 'charlotte.biber'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'YAGEO'
+PRP Manufacturer_P/N 'RK73Z1ETTD'
+PRP Manufacturer_P/N_2 '2322_705_91001_L'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'NRND'
+PRP Mfg_P/N_Status_2 'NRND'
+PRP Part_Number 'UBXH18-0003002'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2012-06-05T09:49:55'
+PRP Released_by 'peter.mueller'
+PRP Size '0402'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6611'
+PRP Value '0R'
+TOP 0 20.64019748 71.74639448 270 N 22 10 1
+TOP 1 19.84019908 71.74639448 270 N 413 9 2
+#
+# CMP 75
+CMP 41 88.1597932 106.06179956 270 N R26 UBXH18-00002134K7 ;0=1,1=0.4000
+PRP Automotive 'Yes'
+PRP Editor 'michael.hein'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73H1ETTP4701F'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0000213'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2015-10-02T11:47:33'
+PRP Released_by 'vasyl.dykyy'
+PRP Size '0402'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=23300'
+PRP Value '4K7'
+TOP 0 88.1597932 105.66180036 0 N 283 9 1
+TOP 1 88.1597932 106.46179876 0 N 422 144 2
+#
+# CMP 76
+CMP 41 86.84746156 106.06179956 270 N R25 UBXH18-00002134K7 ;0=1,1=0.4000
+PRP Automotive 'Yes'
+PRP Editor 'michael.hein'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73H1ETTP4701F'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0000213'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2015-10-02T11:47:33'
+PRP Released_by 'vasyl.dykyy'
+PRP Size '0402'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=23300'
+PRP Value '4K7'
+TOP 0 86.84746156 105.66180036 0 N 281 9 1
+TOP 1 86.84746156 106.46179876 0 N 422 141 2
+#
+# CMP 77
+CMP 41 85.53512992 106.06179956 270 N R20 UBXH18-00002134K7 ;0=1,1=0.4000
+PRP Automotive 'Yes'
+PRP Editor 'michael.hein'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73H1ETTP4701F'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0000213'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2015-10-02T11:47:33'
+PRP Released_by 'vasyl.dykyy'
+PRP Size '0402'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=23300'
+PRP Value '4K7'
+TOP 0 85.53512992 105.66180036 0 N 280 9 1
+TOP 1 85.53512992 106.46179876 0 N 422 143 2
+#
+# CMP 78
+CMP 41 84.22279828 106.06179956 270 N R18 UBXH18-00002134K7 ;0=1,1=0.4000
+PRP Automotive 'Yes'
+PRP Editor 'michael.hein'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73H1ETTP4701F'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0000213'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2015-10-02T11:47:33'
+PRP Released_by 'vasyl.dykyy'
+PRP Size '0402'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=23300'
+PRP Value '4K7'
+TOP 0 84.22279828 105.66180036 0 N 282 9 1
+TOP 1 84.22279828 106.46179876 0 N 422 142 2
+#
+# CMP 79
+CMP 52 76.31523726 12.446 0 N J76 Solderbridge-OpenDNP ;0=1,1=2.1000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 76.31523726 12.446 180 N 396 16 1
+TOP 1 75.69039726 12.446 180 N 35 3 2
+#
+# CMP 80
+CMP 52 76.01043726 16.5354 0 N J73 Solderbridge-OpenDNP ;0=1,1=2.1000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 76.01043726 16.5354 180 N 398 15 1
+TOP 1 75.38559726 16.5354 180 N 36 4 2
+#
+# CMP 81
+CMP 54 24.61738536 121.21240426 0 N J27 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 24.61738536 121.21240426 180 N 407 23 1
+TOP 1 23.9417479 121.21240426 180 N 251 6 2
+#
+# CMP 82
+CMP 54 23.87074728 118.66800498 180 N J25 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 23.87074728 118.66800498 0 N 406 13 1
+TOP 1 24.54638474 118.66800498 0 N 250 4 2
+#
+# CMP 83
+CMP 52 17.8203987 29.74802534 180 N J93 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 17.8203987 29.74802534 0 N 346 22 1
+TOP 1 18.4452387 29.74802534 0 N 247 4 2
+#
+# CMP 84
+CMP 66 26.39723702 83.60940606 270 N TP21 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 26.39723702 83.60940606 270 N 421 495 1
+#
+# CMP 85
+CMP 66 24.60723552 83.60940606 270 N TP20 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 24.60723552 83.60940606 270 N 421 496 1
+#
+# CMP 86
+CMP 66 11.75723582 48.83940702 270 N TP19 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 11.75723582 48.83940702 270 N 421 497 1
+#
+# CMP 87
+CMP 66 44.69723598 94.58940696 270 N TP18 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 44.69723598 94.58940696 270 N 421 494 1
+#
+# CMP 88
+CMP 66 70.31723554 67.13940598 270 N TP17 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 70.31723554 67.13940598 270 N 91 40 1
+#
+# CMP 89
+CMP 66 67.79623728 83.60940606 270 N TP14 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 67.79623728 83.60940606 270 N 421 492 1
+#
+# CMP 90
+CMP 66 65.96623586 83.60940606 270 N TP13 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 65.96623586 83.60940606 270 N 421 488 1
+#
+# CMP 91
+CMP 66 46.11623746 83.60940606 270 N TP12 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 46.11623746 83.60940606 270 N 421 489 1
+#
+# CMP 92
+CMP 66 44.28623604 83.60940606 270 N TP11 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 44.28623604 83.60940606 270 N 421 490 1
+#
+# CMP 93
+CMP 66 2.60723634 83.60940606 270 N TP10 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 2.60723634 83.60940606 270 N 421 487 1
+#
+# CMP 94
+CMP 66 9.35623732 83.60940606 270 N TP9 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.35623732 83.60940606 270 N 421 484 1
+#
+# CMP 95
+CMP 67 11.1862362 83.60940606 270 N TP8 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 11.16993956 83.60940606 270 N 421 485 1
+#
+# CMP 96
+CMP 68 80.50516284 4.49141342 270 N TP7 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 80.50516284 4.50000116 270 N 421 486 1
+#
+# CMP 97
+CMP 68 78.67516142 4.49141342 270 N TP6 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 78.67516142 4.50000116 270 N 421 491 1
+#
+# CMP 98
+CMP 66 46.11656258 4.49141342 270 N TP5 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 46.11656258 4.49141342 270 N 192 31 1
+#
+# CMP 99
+CMP 66 44.28656116 4.49141342 270 N TP3 TP ;0=1,1=0.5500
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 44.28656116 4.49141342 270 N 192 30 1
+#
+# CMP 100
+CMP 2 41.89417834 113.57826154 90 N C85 UBXH01-0000245100N ;0=1,1=0.3300
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_2 'Taiyo Yuden Company, Ltd.'
+PRP Manufacturer_3 'Samsung Electro-Mechanics'
+PRP Manufacturer_P/N 'GRM033R61A104KE84'
+PRP Manufacturer_P/N_2 'LMK063BJ104KP-F'
+PRP Manufacturer_P/N_3 'CL03A104KA3NNN'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24348'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=27440'
+PRP Mfg_P/N_Datasheet_3 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=28183'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Released_3 'Yes'
+PRP Mfg_P/N_Split '0'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Split_3 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Mfg_P/N_Status_3 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000245'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2016-03-11T16:09:03'
+PRP Released_by 'jure.podmenik'
+PRP Size '0201'
+PRP Tolerance '10%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24347'
+PRP Value '100N'
+TOP 0 41.89417834 113.85326226 90 N 239 10 1
+TOP 1 41.89417834 113.30326082 90 N 421 483 2
+#
+# CMP 101
+CMP 6 42.69143354 113.34326074 90 N C84 UBXH01-00002434U7 ;0=1,1=0.6000
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_P/N 'GRM155R61A475MEAA'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24302'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000243'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2021-05-10T12:57:47'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0402'
+PRP Tolerance '20%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24303'
+PRP Value '4U7'
+TOP 0 42.69143354 113.74325994 180 N 239 9 1
+TOP 1 42.69143354 112.94326154 180 N 421 482 2
+#
+# CMP 102
+CMP 43 41.93998724 114.8580126 180 N R126 R126 ;0=1,1=0.5500
+PRP Editor 'martin.frauchiger'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RC0603JR-070RL'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Part_Number 'UBXH18-0003001'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2005-07-14T10:55:51'
+PRP Released_by 'martin.frauchiger'
+PRP Size '0603'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=6609'
+PRP Value '0R'
+TOP 0 41.289986 114.8580126 90 N 174 9 1
+TOP 1 42.58998848 114.8580126 90 N 239 8 2
+#
+# CMP 103
+CMP 52 42.91701602 119.32516394 0 N J116 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 42.91701602 119.32516394 180 N 202 8 1
+TOP 1 42.29217602 119.32516394 180 N 174 7 2
+#
+# CMP 104
+CMP 52 42.91701602 116.6360126 0 N J115 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 42.91701602 116.6360126 180 N 203 6 1
+TOP 1 42.29217602 116.6360126 180 N 174 8 2
+#
+# CMP 105
+CMP 19 92.10723514 124.4294057 270 N FD6 Fiducial_1mmDNP ;0=1,1=0.5500
+PRP Added_By 'EMOO'
+PRP Added_Date '12/12/2020'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Fiducial_1mm'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 92.10723514 124.4294057 270 N 0 127 1
+#
+# CMP 106
+CMP 19 92.10723514 5.82940414 270 N FD5 Fiducial_1mmDNP ;0=1,1=0.5500
+PRP Added_By 'EMOO'
+PRP Added_Date '12/12/2020'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Fiducial_1mm'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 92.10723514 5.82940414 270 N 0 123 1
+#
+# CMP 107
+CMP 19 1.71700698 124.4294057 270 N FD4 Fiducial_1mmDNP ;0=1,1=0.5500
+PRP Added_By 'EMOO'
+PRP Added_Date '12/12/2020'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Fiducial_1mm'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.71700698 124.4294057 270 N 0 124 1
+#
+# CMP 108
+CMP 52 23.99235994 123.67622458 180 N J92 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 23.99235994 123.67622458 0 N 346 21 1
+TOP 1 24.61719994 123.67622458 0 N 255 6 2
+#
+# CMP 109
+CMP 52 75.91939604 29.74799994 180 N J62 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 75.91939604 29.74799994 0 N 346 20 1
+TOP 1 76.54423604 29.74799994 0 N 268 5 2
+#
+# CMP 110
+CMP 52 24.00759994 126.34322458 180 N J89 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 24.00759994 126.34322458 0 N 375 27 1
+TOP 1 24.63243994 126.34322458 0 N 254 7 2
+#
+# CMP 111
+CMP 52 75.91939604 32.28799994 180 N J61 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 75.91939604 32.28799994 0 N 375 26 1
+TOP 1 76.54423604 32.28799994 0 N 267 5 2
+#
+# CMP 112
+CMP 52 82.33716324 113.5880126 180 N J87 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 82.33716324 113.5880126 0 N 391 20 1
+TOP 1 82.96200324 113.5880126 0 N 264 7 2
+#
+# CMP 113
+CMP 52 70.25206422 113.56671978 0 N J86 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 70.25206422 113.56671978 180 N 391 19 1
+TOP 1 69.62722422 113.56671978 180 N 260 5 2
+#
+# CMP 114
+CMP 52 11.86639994 113.46542458 0 N J85 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 11.86639994 113.46542458 180 N 407 22 1
+TOP 1 11.24155994 113.46542458 180 N 252 4 2
+#
+# CMP 115
+CMP 52 23.93139994 113.59242458 180 N J84 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 23.93139994 113.59242458 0 N 407 21 1
+TOP 1 24.55623994 113.59242458 0 N 256 5 2
+#
+# CMP 116
+CMP 52 23.93139994 116.10702458 180 N J83 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 23.93139994 116.10702458 0 N 406 11 1
+TOP 1 24.55623994 116.10702458 0 N 257 6 2
+#
+# CMP 117
+CMP 52 82.32599994 116.10702458 180 N J82 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 82.32599994 116.10702458 0 N 390 15 1
+TOP 1 82.95083994 116.10702458 0 N 265 5 2
+#
+# CMP 118
+CMP 52 70.05779994 116.08162458 0 N J81 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 70.05779994 116.08162458 180 N 390 16 1
+TOP 1 69.43295994 116.08162458 180 N 261 4 2
+#
+# CMP 119
+CMP 52 11.81559994 116.05622458 0 N J80 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 11.81559994 116.05622458 180 N 406 12 1
+TOP 1 11.19075994 116.05622458 180 N 253 4 2
+#
+# CMP 120
+CMP 54 82.53936248 121.21242458 180 N J28 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 82.53936248 121.21242458 0 N 391 21 1
+TOP 1 83.21499994 121.21242458 0 N 259 10 2
+#
+# CMP 121
+CMP 54 82.29338888 118.66800498 180 N J26 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 82.29338888 118.66800498 0 N 390 17 1
+TOP 1 82.96902634 118.66800498 0 N 258 4 2
+#
+# CMP 122
+CMP 6 62.2001296 110.62062458 270 N C4 120-000160.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'GRM155R61A104KA01J'
+PRP Manufacturer_Part_Number_2 'CC0402KRX5R6BB104'
+PRP Max_Operating_Temp '85'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1UF 10V 10% X5R 0402'
+PRP Part_Number '120-00016'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-6297-1-ND'
+PRP Supplier_Part_Number_2 '311-1336-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '10V'
+TOP 0 62.2001296 110.22062538 0 N 421 508 1
+TOP 1 62.2001296 111.02062378 0 N 422 155 2
+#
+# CMP 123
+CMP 71 91.29263428 112.52559918 270 N TP103 TP4.5x3SqDNP ;0=1,1=8.1280
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-08-21'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP4.5x3Sq'
+PRP Size '4.5mm x 3mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 91.2926546 112.5256195 0 N 421 493 1
+#
+# CMP 124
+CMP 52 75.90491804 19.56480974 180 N J79 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 75.90491804 19.56480974 0 N 396 15 1
+TOP 1 76.52975804 19.56480974 0 N 269 5 2
+#
+# CMP 125
+CMP 44 15.03319828 17.41579956 90 N R122 UBXH18-00000200R ;0=1,1=0.7100
+PRP Editor 'massimo.vlacci'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73Z2BT'
+PRP Max_Current '2A'
+PRP Max_Operating_Temp '125°C'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'NRND'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000020'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'R'
+PRP Release_Data '2010-03-15T11:02:19'
+PRP Released_by 'erian.bezhani'
+PRP Size '1206'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8587'
+PRP Value '0R'
+TOP 0 15.03319828 18.8157993 180 N 323 3 1
+TOP 1 15.03319828 16.01579982 180 N 89 12 2
+#
+# CMP 126
+CMP 44 15.08599726 22.60300026 90 N R121 UBXH18-00000200R ;0=1,1=0.7100
+PRP Editor 'massimo.vlacci'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_P/N 'RK73Z2BT'
+PRP Max_Current '2A'
+PRP Max_Operating_Temp '125°C'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8616'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'NRND'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000020'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Support Products'
+PRP RefDes 'R'
+PRP Release_Data '2010-03-15T11:02:19'
+PRP Released_by 'erian.bezhani'
+PRP Size '1206'
+PRP Tolerance '0'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8587'
+PRP Value '0R'
+TOP 0 15.08599726 24.003 180 N 420 25 1
+TOP 1 15.08599726 21.20300052 180 N 86 4 2
+#
+# CMP 127
+CMP 52 17.8203987 32.28802534 180 N J90 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 17.8203987 32.28802534 0 N 375 25 1
+TOP 1 18.4452387 32.28802534 0 N 246 4 2
+#
+# CMP 128
+CMP 52 17.83488178 19.58802534 180 N J78 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 17.83488178 19.58802534 0 N 357 19 1
+TOP 1 18.45972178 19.58802534 0 N 248 5 2
+#
+# CMP 129
+CMP 52 18.33719726 13.9954 0 N J77 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 18.33719726 13.9954 180 N 357 20 1
+TOP 1 17.71235726 13.9954 180 N 244 4 2
+#
+# CMP 130
+CMP 52 17.83488178 22.13020974 180 N J75 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 17.83488178 22.13020974 0 N 359 19 1
+TOP 1 18.45972178 22.13020974 0 N 249 5 2
+#
+# CMP 131
+CMP 52 18.43483994 17.04802534 0 N J74 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 18.43483994 17.04802534 180 N 359 17 1
+TOP 1 17.80999994 17.04802534 180 N 245 6 2
+#
+# CMP 132
+CMP 52 75.90491804 22.12802534 180 N J11 Solderbridge-OpenDNP ;0=1,1=0.5500
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Open'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 75.90491804 22.12802534 0 N 398 14 1
+TOP 1 76.52975804 22.12802534 0 N 270 4 2
+#
+# CMP 133
+CMP 41 56.79279726 72.9107 0 N R112 UBXH18-0000005100K ;0=1,1=0.4000
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'ROHM'
+PRP Manufacturer_P/N 'RK73H1ETTP1003F'
+PRP Manufacturer_P/N_2 'MCR01MZPF1003'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8186'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Part_Number 'UBXH18-0000005'
+PRP Part_Type 'Resistor'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-11-30T11:05:22'
+PRP Released_by 'sandro.sestan'
+PRP Size '0402'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8114'
+PRP Value '100K'
+TOP 0 57.19279646 72.9107 270 N 106 17 1
+TOP 1 56.39279806 72.9107 270 N 422 147 2
+#
+# CMP 134
+CMP 41 56.79279726 75.4888 0 N R105 UBXH18-0000005100K ;0=1,1=0.4000
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'ROHM'
+PRP Manufacturer_P/N 'RK73H1ETTP1003F'
+PRP Manufacturer_P/N_2 'MCR01MZPF1003'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8186'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Part_Number 'UBXH18-0000005'
+PRP Part_Type 'Resistor'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-11-30T11:05:22'
+PRP Released_by 'sandro.sestan'
+PRP Size '0402'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8114'
+PRP Value '100K'
+TOP 0 57.19279646 75.4888 270 N 105 15 1
+TOP 1 56.39279806 75.4888 270 N 422 146 2
+#
+# CMP 135
+CMP 41 56.79279726 70.3326 0 N R104 UBXH18-0000005100K ;0=1,1=0.4000
+PRP Editor 'dario.antonaz'
+PRP Env 'ROHS'
+PRP Manufacturer 'KOA'
+PRP Manufacturer_2 'ROHM'
+PRP Manufacturer_P/N 'RK73H1ETTP1003F'
+PRP Manufacturer_P/N_2 'MCR01MZPF1003'
+PRP Max_Power '63mW'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8222'
+PRP Mfg_P/N_Datasheet_2 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=8186'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Released_2 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Split_2 '0'
+PRP Mfg_P/N_Status 'Active'
+PRP Mfg_P/N_Status_2 'Active'
+PRP Part_Number 'UBXH18-0000005'
+PRP Part_Type 'Resistor'
+PRP Perferred 'N/A'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'R'
+PRP Release_Data '2009-11-30T11:05:22'
+PRP Released_by 'sandro.sestan'
+PRP Size '0402'
+PRP Tolerance '1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=8114'
+PRP Value '100K'
+TOP 0 57.19279646 70.3326 270 N 17 11 1
+TOP 1 56.39279806 70.3326 270 N 422 145 2
+#
+# CMP 136
+CMP 43 71.88039726 32.4866 0 N R70 UBXH18-00004001K0 ;0=1,1=0.5500
+PRP Editor 'martin.kessel'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RT0603BRD071KL'
+PRP Max_Operating_Temp '155°C'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000400'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Internal Use'
+PRP RefDes 'R'
+PRP Size '0603'
+PRP Tolerance '0.1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=27323'
+PRP Value '1K0'
+TOP 0 72.5303985 32.4866 270 N 209 20 1
+TOP 1 71.2303757 32.4866 270 N 207 7 2
+#
+# CMP 137
+CMP 54 82.50338846 123.74801006 180 N J91 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 82.50338846 123.74801006 0 N 346 19 1
+TOP 1 83.17902846 123.74801006 0 N 263 4 2
+#
+# CMP 138
+CMP 54 82.33638854 126.26700934 180 N J88 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 82.33638854 126.26700934 0 N 375 24 1
+TOP 1 83.01202854 126.26700934 0 N 262 3 2
+#
+# CMP 139
+CMP 43 13.51119726 32.3596 0 N R19 UBXH18-00004001K0 ;0=1,1=0.5500
+PRP Editor 'martin.kessel'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RT0603BRD071KL'
+PRP Max_Operating_Temp '155°C'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000400'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Internal Use'
+PRP RefDes 'R'
+PRP Size '0603'
+PRP Tolerance '0.1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=27323'
+PRP Value '1K0'
+TOP 0 14.16120866 32.3596 270 N 209 19 1
+TOP 1 12.86118586 32.3596 270 N 204 7 2
+#
+# CMP 140
+CMP 43 13.53659726 29.7434 0 N R10 UBXH18-00004001K0 ;0=1,1=0.5500
+PRP Editor 'martin.kessel'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RT0603BRD071KL'
+PRP Max_Operating_Temp '155°C'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000400'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Internal Use'
+PRP RefDes 'R'
+PRP Size '0603'
+PRP Tolerance '0.1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=27323'
+PRP Value '1K0'
+TOP 0 14.18660866 29.7434 270 N 286 43 1
+TOP 1 12.88658586 29.7434 270 N 204 6 2
+#
+# CMP 141
+CMP 53 65.29619656 92.36220034 180 N J60 Solderbridge-OptionDNP ;0=1,1=7.3700
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Option'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 65.29622196 92.36218764 0 N 346 23 1
+TOP 1 66.04623316 92.36218764 0 N 12 6 2
+TOP 2 66.79685396 92.36218764 0 N 387 1 3
+#
+# CMP 142
+CMP 53 69.18799726 98.9718239 90 N J59 Solderbridge-OptionDNP ;0=1,1=7.3700
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Option'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 69.18799726 98.9718112 90 N 383 11 1
+TOP 1 69.18799726 98.2218 90 N 384 11 2
+TOP 2 69.18799726 97.4711792 90 N 272 1 3
+#
+# CMP 143
+CMP 53 67.48619726 95.8476239 90 N J58 Solderbridge-OptionDNP ;0=1,1=7.3700
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Option'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 67.48619726 95.8476112 90 N 385 17 1
+TOP 1 67.48619726 95.0976 90 N 386 4 2
+TOP 2 67.48619726 94.3469792 90 N 273 1 3
+#
+# CMP 144
+CMP 53 65.29619656 86.36219964 180 N J57 Solderbridge-OptionDNP ;0=1,1=7.3700
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Option'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 65.2961864 86.3621844 0 N 8 3 1
+TOP 1 66.0461976 86.3621844 0 N 13 6 2
+TOP 2 66.7968692 86.3621844 0 N 274 2 3
+#
+# CMP 145
+CMP 53 65.29619656 89.36220126 180 N J56 Solderbridge-OptionDNP ;0=1,1=7.3700
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Option'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 65.2961864 89.36218094 0 N 9 7 1
+TOP 1 66.0461976 89.36218094 0 N 14 6 2
+TOP 2 66.7968692 89.36218094 0 N 271 1 3
+#
+# CMP 146
+CMP 53 65.29619656 81.36219948 180 N J55 Solderbridge-OptionDNP ;0=1,1=7.3700
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Option'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 65.2961864 81.36218678 0 N 389 7 1
+TOP 1 66.0461976 81.36218678 0 N 15 6 2
+TOP 2 66.7968692 81.36218678 0 N 275 1 3
+#
+# CMP 147
+CMP 54 17.76959362 27.20802534 180 N J19 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 17.76959362 27.20802534 0 N 357 18 1
+TOP 1 18.44523362 27.20802534 0 N 243 4 2
+#
+# CMP 148
+CMP 54 75.9193935 27.2080355 180 N J18 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 75.9193935 27.2080355 0 N 396 14 1
+TOP 1 76.5950335 27.2080355 0 N 34 4 2
+#
+# CMP 149
+CMP 54 17.76959362 24.69342534 180 N J17 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 17.76959362 24.69342534 0 N 359 18 1
+TOP 1 18.44523362 24.69342534 0 N 242 4 2
+#
+# CMP 150
+CMP 54 75.9193935 24.66802534 180 N J16 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 75.9193935 24.66802534 0 N 398 13 1
+TOP 1 76.5950335 24.66802534 0 N 266 4 2
+#
+# CMP 151
+CMP 6 88.28879726 66.7258 270 N C72 120-000770.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'AVX Corporation'
+PRP Manufacturer_Part_Number_1 'GRM155R71C104KA88D'
+PRP Manufacturer_Part_Number_2 '0402YC104KAT2A'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1uF 16V 10% X7R 0402'
+PRP Part_Number '120-00077'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-3261-1-ND'
+PRP Supplier_Part_Number_2 '478-7888-1-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '16V'
+TOP 0 88.28877948 66.32579572 0 N 237 8 1
+TOP 1 88.28877948 67.12579412 0 N 421 514 2
+#
+# CMP 152
+CMP 11 86.84099726 66.5734 270 N C71 120-0013310uF ;0=1,1=1.1000
+PRP Height '1.40mm'
+PRP Item_Phase 'Pre-Production'
+PRP Manufacturer_1 'Samsung Electro-Mechanics America, Inc.'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'CL21B106KOQNNNE'
+PRP Manufacturer_Part_Number_2 'CC0805KKX7R7BB106'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 10uF 16V 10% X7R 0805'
+PRP Part_Number '120-00133'
+PRP Pins '2'
+PRP Revision '1'
+PRP Size '0805'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-2872-1-ND'
+PRP Supplier_Part_Number_2 '311-3501-2-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '10uF'
+PRP Voltage '16V'
+TOP 0 86.84101758 65.77339398 0 N 237 7 1
+TOP 1 86.84101758 67.37339078 0 N 421 513 2
+#
+# CMP 153
+CMP 6 62.20017532 16.62561318 270 N C5 120-000160.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'GRM155R61A104KA01J'
+PRP Manufacturer_Part_Number_2 'CC0402KRX5R6BB104'
+PRP Max_Operating_Temp '85'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1UF 10V 10% X5R 0402'
+PRP Part_Number '120-00016'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-6297-1-ND'
+PRP Supplier_Part_Number_2 '311-1336-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '10V'
+TOP 0 62.20015246 16.22562414 0 N 421 506 1
+TOP 1 62.20015246 17.02562254 0 N 422 153 2
+#
+# CMP 154
+CMP 43 71.88039726 29.972 0 N R46 UBXH18-00004001K0 ;0=1,1=0.5500
+PRP Editor 'martin.kessel'
+PRP Env 'ROHS'
+PRP Manufacturer 'YAGEO'
+PRP Manufacturer_P/N 'RT0603BRD071KL'
+PRP Max_Operating_Temp '155°C'
+PRP Max_Power '100mW'
+PRP Mfg_P/N_Released 'No'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-55°C'
+PRP Part_Number 'UBXH18-0000400'
+PRP Part_Type 'Resistor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Internal Use'
+PRP RefDes 'R'
+PRP Size '0603'
+PRP Tolerance '0.1%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=27323'
+PRP Value '1K0'
+TOP 0 72.5303985 29.972 270 N 286 44 1
+TOP 1 71.2303757 29.972 270 N 207 6 2
+#
+# CMP 155
+CMP 54 2.63799828 15.37363702 90 N J14 Solderbridge-ShortDNP ;0=1,1=1.4000
+PRP Added_By 'Paul B'
+PRP Added_Date '12/2/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Solderbridge-Short'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 2.63799828 15.37363702 90 N 195 7 1
+TOP 1 2.63799828 14.69799956 90 N 89 13 2
+#
+# CMP 156
+CMP 51 60.09479726 117.9068 90 N U2 240-00017 ;0=1,1=2.1600
+PRP Body_Size '5.28mm x 5.28mm'
+PRP Height '2.16mm'
+PRP Interface 'SPI'
+PRP Item_Phase 'Unreleased'
+PRP Manufacturer_1 'Cypress Semiconductor Corp'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_P/N ''
+PRP Manufacturer_Part_Number_1 'S25FL127SABMFI101'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp '85'
+PRP Memory_Size '128Mbit'
+PRP Memory_Speed '108MHz'
+PRP Memory_Type 'Flash - NOR'
+PRP MFG_Package '8-SOIC'
+PRP Min_Operating_Temp '-40'
+PRP Part_Name 'IC Flash 128MBIT 108MHz 8SOIC'
+PRP Part_Number '240-00017'
+PRP Pins '8'
+PRP Revision 'None'
+PRP SMT_Pitch '1.27mm'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 '1274-1045-ND'
+PRP Supplier_Part_Number_2 'None'
+PRP Thermal_Pad 'No'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '3.6V'
+TOP 0 58.1897871 121.4067803 180 N 292 4 1
+TOP 1 59.4597871 121.4067803 180 N 289 4 2
+TOP 2 60.7297871 121.4067803 180 N 288 3 3
+TOP 3 61.9997871 121.4067803 180 N 421 479 4
+TOP 4 61.9997871 114.4067943 180 N 290 4 5
+TOP 5 60.7297871 114.4067943 180 N 291 4 6
+TOP 6 59.4597871 114.4067943 180 N 287 3 7
+TOP 7 58.1897871 114.4067943 180 N 422 138 8
+#
+# CMP 157
+CMP 6 58.54539726 112.0977692 180 N C47 UBXH01-00002434U7 ;0=1,1=0.6000
+PRP Editor 'martin.pilik'
+PRP Env 'GREEN'
+PRP Manufacturer 'Murata Manufacturing Company, Ltd.'
+PRP Manufacturer_P/N 'GRM155R61A475MEAA'
+PRP Max_Operating_Temp '85°C'
+PRP Max_Voltage '10V'
+PRP Mfg_P/N_Datasheet 'https://wiki.u-blox.com/bin/view/Generic/Docs/DocumentSummary?index=24302'
+PRP Mfg_P/N_Released 'Yes'
+PRP Mfg_P/N_Split '100'
+PRP Mfg_P/N_Status 'Active'
+PRP Min_Operating_Temp '-40°C'
+PRP Part_Number 'UBXH01-0000243'
+PRP Part_Type 'Capacitor'
+PRP Perferred 'PREF'
+PRP Permitted_Use 'Volume Products'
+PRP RefDes 'C'
+PRP Release_Data '2021-05-10T12:57:47'
+PRP Released_by 'fabrice.bret-dibat'
+PRP Size '0402'
+PRP Tolerance '20%'
+PRP UBX_Wiki 'https://wiki.u-blox.com/bin/view/Operations/PartDetails?index=24303'
+PRP Value '4U7'
+TOP 0 58.14540822 112.09774888 90 N 422 139 1
+TOP 1 58.94540662 112.09774888 90 N 421 480 2
+#
+# CMP 158
+CMP 6 58.54539726 113.03 180 N C24 120-000160.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'GRM155R61A104KA01J'
+PRP Manufacturer_Part_Number_2 'CC0402KRX5R6BB104'
+PRP Max_Operating_Temp '85'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1UF 10V 10% X5R 0402'
+PRP Part_Number '120-00016'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-6297-1-ND'
+PRP Supplier_Part_Number_2 '311-1336-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '10V'
+TOP 0 58.14540822 113.03000254 90 N 422 140 1
+TOP 1 58.94540662 113.03000254 90 N 421 481 2
+#
+# CMP 159
+CMP 6 3.8728015 16.65101318 270 N C6 120-000160.1uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'GRM155R61A104KA01J'
+PRP Manufacturer_Part_Number_2 'CC0402KRX5R6BB104'
+PRP Max_Operating_Temp '85'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 0.1UF 10V 10% X5R 0402'
+PRP Part_Number '120-00016'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-6297-1-ND'
+PRP Supplier_Part_Number_2 '311-1336-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Tolerance '+/- 10%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '10V'
+TOP 0 3.87281166 16.25102414 0 N 421 507 1
+TOP 1 3.87281166 17.05102254 0 N 422 154 2
+#

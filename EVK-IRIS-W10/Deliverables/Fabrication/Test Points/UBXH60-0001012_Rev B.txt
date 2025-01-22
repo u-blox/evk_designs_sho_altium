@@ -1,0 +1,63 @@
+Net         Name        X Coord     Y Coord     Side        Hole Size   Type        
++3V3        J4-2         21.6254mm  123.5194mm  Bottom             1mm  Through hole
+GND         J4-10        21.6254mm  103.1994mm  Bottom             1mm  Through hole
+EXT-PRI     J4-3         21.6254mm  120.9794mm  Bottom             1mm  Through hole
+EXT-REQ     J4-4         21.6254mm  118.4394mm  Bottom             1mm  Through hole
+GPIO1_U0-SPI-WPJ4-5         21.6254mm  115.8994mm  Bottom             1mm  Through hole
+GPIO3_U0-TxD-MISOJ4-6         21.6254mm  113.3594mm  Bottom             1mm  Through hole
+GPIO5_U0-RTSJ4-7         21.6254mm  110.8194mm  Bottom             1mm  Through hole
+GPIO43-UCX-RGB-GJ4-8         21.6254mm  108.2794mm  Bottom             1mm  Through hole
+GPIO45_UCX-SW1J4-9         21.6254mm  105.7394mm  Bottom             1mm  Through hole
+VBUS-OUT    J4-1         21.6254mm  126.0594mm  Bottom             1mm  Through hole
++3V3        J10-2        72.4654mm  123.5194mm  Bottom             1mm  Through hole
+GPIO10_U1-RTS_JTAG-nRSTJ10-5        72.4654mm  115.8994mm  Bottom             1mm  Through hole
+GPIO11_U3-DTRJ10-6        72.4654mm  113.3594mm  Bottom             1mm  Through hole
+GPIO12_U3-DSRJ10-7        72.4654mm  110.8194mm  Bottom             1mm  Through hole
+QSPI-RDQS   J10-8        72.4654mm  108.2794mm  Bottom             1mm  Through hole
+GPIO29_QSPI-FDQSJ10-9        72.4654mm  105.7394mm  Bottom             1mm  Through hole
+GPIO16_U2-CTS-CSJ10-10       72.4654mm  103.1994mm  Bottom             1mm  Through hole
+VBUS-OUT    J10-1        72.4654mm  126.0594mm  Bottom             1mm  Through hole
+GPIO8_U1-TxD-MISO-SCL-WS_JTAG-TDIJ10-4        72.4654mm  118.4394mm  Bottom             1mm  Through hole
+GPIO6_U1-CTS-CS_JTAG-TCKJ10-3        72.4654mm  120.9794mm  Bottom             1mm  Through hole
++3V3        J3-2         14.0054mm  123.5194mm  Bottom             1mm  Through hole
+GND         J3-10        14.0054mm  103.1994mm  Bottom             1mm  Through hole
+EXT-GNT     J3-4         14.0054mm  118.4394mm  Bottom             1mm  Through hole
+GPIO0_U0-CTS-CS-SDAJ3-5         14.0054mm  115.8994mm  Bottom             1mm  Through hole
+GPIO2_U0-RxD-MOSI-SCL-TRXJ3-6         14.0054mm  113.3594mm  Bottom             1mm  Through hole
+GPIO4-U0-CLKJ3-7         14.0054mm  110.8194mm  Bottom             1mm  Through hole
+GPIO42_UCX-RGB-BJ3-8         14.0054mm  108.2794mm  Bottom             1mm  Through hole
+GPIO44-UCX-RGB-RJ3-9         14.0054mm  105.7394mm  Bottom             1mm  Through hole
+VBUS-OUT    J3-1         14.0054mm  126.0594mm  Bottom             1mm  Through hole
+EXT-FREQ    J3-3         14.0054mm  120.9794mm  Bottom             1mm  Through hole
+uBus2-SPI-MOSIJ2-6         64.8254mm   113.588mm  Bottom             1mm  Through hole
+uBus2-SPI-MISOJ2-5         64.8254mm   116.128mm  Bottom             1mm  Through hole
+GPIO16_U2-CTS-CSJ2-3         64.8254mm   121.208mm  Bottom             1mm  Through hole
+GPIO15_U2-CLKJ2-4         64.8254mm   118.668mm  Bottom             1mm  Through hole
+uBus2-Reset J2-2         64.8254mm   123.748mm  Bottom             1mm  Through hole
+GND         J2-8         64.8254mm   108.508mm  Bottom             1mm  Through hole
++3V3        J2-7         64.8254mm   111.048mm  Bottom             1mm  Through hole
+GPIO47      J2-1         64.8254mm   126.288mm  Bottom             1mm  Through hole
+uBus2-INT   J5-2         87.6854mm   123.748mm  Bottom             1mm  Through hole
+uBus2-PWM   J5-1         87.6854mm   126.288mm  Bottom             1mm  Through hole
+uBus2-UART-TXJ5-4         87.6854mm   118.668mm  Bottom             1mm  Through hole
+uBus2-UART-RXJ5-3         87.6854mm   121.208mm  Bottom             1mm  Through hole
+uBus2-I2C-SDAJ5-6         87.6854mm   113.588mm  Bottom             1mm  Through hole
+uBus2-I2C-SCLJ5-5         87.6854mm   116.128mm  Bottom             1mm  Through hole
+GND         J5-8         87.6854mm   108.508mm  Bottom             1mm  Through hole
+VBUS-OUT    J5-7         87.6854mm   111.048mm  Bottom             1mm  Through hole
+GPIO7_U1-CLKJ9-4         67.3654mm    24.668mm  Bottom             1mm  Through hole
+GPIO6_U1-CTS-CSJ9-3         67.3654mm    27.208mm  Bottom             1mm  Through hole
+GND         J9-8         67.3654mm    14.508mm  Bottom             1mm  Through hole
++3V3        J9-7         67.3654mm    17.048mm  Bottom             1mm  Through hole
+GPIO46      J9-1         67.3654mm    32.288mm  Bottom             1mm  Through hole
+uBus3-SPI-MOSIJ9-6         67.3654mm    19.588mm  Bottom             1mm  Through hole
+uBus3-SPI-MISOJ9-5         67.3654mm    22.128mm  Bottom             1mm  Through hole
+uBus3-Reset J9-2         67.3654mm    29.748mm  Bottom             1mm  Through hole
+GND         J12-8        85.1454mm    14.508mm  Bottom             1mm  Through hole
+VBUS-OUT    J12-7        85.1454mm    17.048mm  Bottom             1mm  Through hole
+uBus3-UART-TXJ12-4        85.1454mm    24.668mm  Bottom             1mm  Through hole
+uBus3-PWM   J12-1        85.1454mm    32.288mm  Bottom             1mm  Through hole
+uBus3-INT   J12-2        85.1454mm    29.748mm  Bottom             1mm  Through hole
+uBus3-I2C-SDAJ12-6        85.1454mm    19.588mm  Bottom             1mm  Through hole
+uBus3-I2C-SCLJ12-5        85.1454mm    22.128mm  Bottom             1mm  Through hole
+uBus3-UART-RXJ12-3        85.1454mm    27.208mm  Bottom             1mm  Through hole

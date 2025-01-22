@@ -1,0 +1,112 @@
+Error Report for  - Users\lkis\AppData\Local\Temp\Qjz1F00.tmp
+2025-01-22 15:44:59
+
+Warning arcs were not exported.
+
+Net CTRL_HIGH_CURR_DIS with allias 1 too long.
+Net DBGIF_TCK_SWCLK with allias 10 too long.
+Net DBGIF_TMS_SWDIO with allias 11 too long.
+Net DBGIF_TMS_SWDIO_TXEN with allias 12 too long.
+Net ENET_B-CAST-OFF with allias 13 too long.
+Net ENET_LED0/NWAYEN with allias 14 too long.
+Net ENET_LED1/SPEED with allias 15 too long.
+Net ENET_NAND_TREE# with allias 16 too long.
+Net GPIO0_U0-CTS-CS-SDA with allias 17 too long.
+Net GPIO1_U0-SPI-WP with allias 18 too long.
+Net GPIO2_FC0_MOSI_SPI_ML with allias 19 too long.
+Net CTRL_HIGH_CURR_EN with allias 2 too long.
+Net GPIO2_U0-RxD-MOSI-SCL-TRX with allias 20 too long.
+Net GPIO3_FC0_MISO_SPI_ML with allias 21 too long.
+Net GPIO3_U0-TxD-MISO with allias 22 too long.
+Net GPIO4-FC0_SCK_SPI_ML with allias 23 too long.
+Net GPIO5_FC0_SSELN1_SPI_ML with allias 24 too long.
+Net GPIO6_U1-CTS-CS with allias 25 too long.
+Net GPIO6_U1-CTS-CS_JTAG-TCK with allias 26 too long.
+Net GPIO7_U1-CLK_JTAG-TMS with allias 27 too long.
+Net GPIO8_U1-TxD-MISO-SCL-WS with allias 28 too long.
+Net GPIO8_U1-TxD-MISO-SCL-WS_JTAG-TDI with allias 29 too long.
+Net DBGIF_ISP0_CTRL with allias 3 too long.
+Net GPIO9_U1-RxD-MOSI-SDA-TRX with allias 30 too long.
+Net GPIO9_U1-RxD-MOSI-SDA-TRX_JTAG-TDO with allias 31 too long.
+Net GPIO10_U1-RTS_JTAG-nRST with allias 32 too long.
+Net GPIO13_SWCLK_ML with allias 33 too long.
+Net GPIO13_U2-RxD-MOSI-SDA-RX with allias 34 too long.
+Net GPIO14_SWDIO_ML with allias 35 too long.
+Net GPIO14_U2-TxD-MISO-SCL-WS with allias 36 too long.
+Net GPIO16_FC2-I2C-SDA-ML with allias 37 too long.
+Net GPIO16_U2-CTS-CS with allias 38 too long.
+Net GPIO17_FC2-I2C-SCL-ML with allias 39 too long.
+Net DBGIF_ISP1_CTRL with allias 4 too long.
+Net GPIO18__Mikro-INT0 with allias 40 too long.
+Net GPIO19_U3-RTS_SDIO-D0 with allias 41 too long.
+Net GPIO20_U3-CTS-CS with allias 42 too long.
+Net GPIO20_U3-CTS-CS_SDIO-D1 with allias 43 too long.
+Net GPIO21_U0-SPI-HD with allias 44 too long.
+Net GPIO22/RMII-RxD0/XTAL32K_IN with allias 45 too long.
+Net GPIO23/RMII-RxD1XTAL32K_OUT with allias 46 too long.
+Net GPIO24_FC3-UART-RXD-ML with allias 47 too long.
+Net GPIO24_U3-RxD-MOSI-SDA-TRX with allias 48 too long.
+Net GPIO25_U3-CLK_RMII-RFECLK with allias 49 too long.
+Net DBGIF_ISP2_CTRL with allias 5 too long.
+Net GPIO26-FC3-UART-TXD-ML with allias 50 too long.
+Net GPIO26-U3-TxD-MISO-SCL-WS with allias 51 too long.
+Net GPIO29_QSPI-FDQS with allias 52 too long.
+Net GPIO42_UCX-RGB-B with allias 53 too long.
+Net GPIO43-UCX-RGB-G with allias 54 too long.
+Net GPIO44-UCX-RGB-R with allias 55 too long.
+Net GPIO50_Mikro-Reset with allias 56 too long.
+Net GPIO53_U14-CTS-CS with allias 57 too long.
+Net GPIO55_U14-RTS_RMII-INT with allias 58 too long.
+Net GPIO56_U14-TxD-MISO-SCL-WS with allias 59 too long.
+Net DBGIF_ISP3_CTRL with allias 6 too long.
+Net GPIO56_U14-TxD-MISO-SCL-WS_RMII-MDC with allias 60 too long.
+Net GPIO57_U14-RxD-MOSI-SDA-TRX with allias 61 too long.
+Net GPIO57_U14-RxD-MOSI-SDA-TRX_RMII-MDIO with allias 62 too long.
+Net GPIO58_RMII-TxD0 with allias 63 too long.
+Net GPIO59_RMII-TxD1 with allias 64 too long.
+Net GPIO60_RMII-TxEN with allias 65 too long.
+Net GPIO62_RMII-CRSDV with allias 66 too long.
+Net GPIO63_RMII-RxERR with allias 67 too long.
+Net MCU_LINK_N_16MHz with allias 68 too long.
+Net MCU_LINK_P_16MHz with allias 69 too long.
+Net PIO0_5-ISP_EN-LED_SWD_ACT with allias 70 too long.
+Net TRGT_3v3_DCDC_EN with allias 71 too long.
+Net VBAT_DCDC/VBAT_PMU with allias 72 too long.
+Net DBGIF_RESET_TXEN with allias 8 too long.
+Warning pad shape change for U109-7 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-15 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U109-14 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U109-5 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U109-2 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U11-14 from  to rectangular 0.36mm,0.24mm
+Pad name Shell too long.
+Pad name Shell too long.
+Warning pad shape change for U11-5 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-6 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-8 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-7 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-16 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-15 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U109-13 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U109-3 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U109-20 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-10 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-12 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U109-11 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U11-10 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-12 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-11 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-13 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-9 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-1 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-2 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-3 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U11-4 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U109-17 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-19 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-6 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-18 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-4 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U109-16 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-9 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U109-8 from  to rectangular 0.2425mm,0.4972mm
