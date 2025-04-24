@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\lkis\OneDrive - u-blox\Desktop\EVK-NORA-W40-ES\Source\PCB\EVK-NORA-W40.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcbdocnum_globalprojectrevision-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcbdocnum_globalprojectrevision-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

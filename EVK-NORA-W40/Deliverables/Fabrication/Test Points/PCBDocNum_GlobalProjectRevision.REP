@@ -1,0 +1,102 @@
+Error Report for  - Users\lkis\AppData\Local\Temp\Qjz30D7.tmp
+2025-04-24 10:50:51
+
+Warning arcs were not exported.
+
+Net A2/IO21/SPI1_WP with allias 1 too long.
+Net G8/IO16/URT0_TX with allias 10 too long.
+Net G9/IO17/URT0_RX with allias 11 too long.
+Net H2/IO4/JT_TMS/SWD_IO with allias 12 too long.
+Net H8/IO9/LED_GREEN with allias 13 too long.
+Net H9/IO15/LED_BLUE with allias 14 too long.
+Net J2/IO6/JT_TCK/SWD_CLK with allias 15 too long.
+Net A5/IO10/IO14/D_TX with allias 2 too long.
+Net B1/IO19/SPI1_CLK with allias 3 too long.
+Net B3/IO23/SPI1_CS0 with allias 4 too long.
+Net C1/IO20/SPI1_MISO with allias 5 too long.
+Net C2/IO18/SPI1_MOSI with allias 6 too long.
+Net E8/IO2/WAKE_HOST with allias 7 too long.
+Net F8/IO21/URT0_RTS with allias 8 too long.
+Net F9/IO22/URT0_CTS with allias 9 too long.
+Warning pad shape change for U7-7 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-15 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U7-14 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U7-5 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U7-2 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for J6-A8 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J6-B8 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J5-A8 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J5-B8 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for U9-2 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-5 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-14 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-15 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-7 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U4-12 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for J5-B6 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J5-A6 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for U4-9 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-11 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-10 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for J5-A7 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J5-B7 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for U9-9 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U9-8 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-13 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U7-3 from  to rectangular 0.4972mm,0.2425mm
+Pad name B1A12 too long.
+Warning pad shape change for J6-B1A12 from  to rounded 0.6mm,0.6mm
+Pad name A1B12 too long.
+Warning pad shape change for J6-A1B12 from  to rounded 0.6mm,0.6mm
+Pad name B1A12 too long.
+Warning pad shape change for J5-B1A12 from  to rounded 0.6mm,0.6mm
+Pad name A1B12 too long.
+Warning pad shape change for J5-A1B12 from  to rounded 0.6mm,0.6mm
+Warning pad shape change for U9-3 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-13 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U4-15 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-8 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-5 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-4 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-3 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-2 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U7-10 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-12 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U7-11 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-11 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-12 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-10 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for J5-B4A9 from  to rounded 0.6mm,0.6mm
+Warning pad shape change for J5-A4B9 from  to rounded 0.6mm,0.6mm
+Warning pad shape change for J6-B4A9 from  to rounded 0.6mm,0.6mm
+Warning pad shape change for J6-A4B9 from  to rounded 0.6mm,0.6mm
+Warning pad shape change for J5-A5 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J5-B5 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J6-A5 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J6-B5 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for U4-7 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-14 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-1 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-16 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U7-20 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-8 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-9 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-16 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U9-20 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U9-16 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-19 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-18 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-4 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U7-6 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U7-17 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U9-6 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U9-4 from  to rectangular 0.4972mm,0.2425mm
+Warning pad shape change for U9-18 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U9-19 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for U9-17 from  to rectangular 0.2425mm,0.4972mm
+Warning pad shape change for J6-A7 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J6-B7 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J6-B6 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for J6-A6 from  to rectangular 0.3mm,0.85mm
+Warning pad shape change for U4-13 from  to rectangular 0.36mm,0.24mm
+Warning pad shape change for U4-6 from  to rectangular 0.36mm,0.24mm

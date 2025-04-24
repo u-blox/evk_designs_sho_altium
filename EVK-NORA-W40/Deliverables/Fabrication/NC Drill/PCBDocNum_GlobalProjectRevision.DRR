@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EVK-NORA-W40.PcbDoc   2025-04-24  10:51:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L6
+ASCII RoundHoles File : PCBDocNum_GlobalProjectRevision-RoundHoles.TXT
+ASCII SlotHoles File : PCBDocNum_GlobalProjectRevision-SlotHoles.TXT
+EIA File   : PCBDocNum_GlobalProjectRevision.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             1349      PTH        2969.89mm (116.92inch)
+T2      0.6mm (24mil)           +/-0.127mm (5mil)                 Slot              8         PTH        105.21mm (4.14inch)
+T3      1mm (39mil)                                               Round             6         PTH        27.45mm (1.08inch)
+T4      1.016mm (40mil)                                           Round             2         PTH        2.54mm (0.10inch)
+T5      3mm (118mil)                                              Round             4         PTH        294.39mm (11.59inch)
+T6      0.65mm (26mil)                                            Round             4         NPTH       29.78mm (1.17inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1373
+
+Total Processing Time (hh:mm:ss) : 00:00:00
