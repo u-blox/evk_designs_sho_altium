@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: UBXH60-0001194_Rev C.GBR   2025-04-09  07:46:57
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.G1                 L2                                      
+.G2                 L3                                      
+.G3                 L4                                      
+.G4                 L5                                      
+.GBL                L6                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Route Tool Path                         
+.GM2                Border & Title                          
+.GM3                Fabrication Notes                       
+.GM4                Rigid Outline                           
+.GM7                Top Assembly                            
+.GM11               Ref Des Top                             
+.GM12               Ref Des Bottom                          
+.GM13               Assembly Top                            
+.GM14               Assembly Bottom                         
+.GM15               Courtyard Top                           
+.GM16               Coutryard Bottom                        
+.GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

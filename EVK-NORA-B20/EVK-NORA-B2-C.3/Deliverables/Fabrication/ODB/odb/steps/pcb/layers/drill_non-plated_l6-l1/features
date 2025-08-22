@@ -1,0 +1,23 @@
+UNITS=MM
+#Layer_Color=9474304
+#
+#Feature symbol names
+#
+$0 r650.00124
+
+#
+#Feature attribute names
+#
+@0 .geometry
+@1 .drill
+
+#
+#Feature attribute text strings
+#
+&0 Pad_Simple_X0.0000Y0.0000H650.0012C650.0114
+
+#
+#Layer features
+#
+P 59.05599822 6.22100102 0 P 0 0 ;0=0,1=1
+P 64.83599682 6.22100102 0 P 0 0 ;0=0,1=1

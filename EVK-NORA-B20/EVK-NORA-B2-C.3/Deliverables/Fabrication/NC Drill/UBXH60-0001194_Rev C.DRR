@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EVB-NORA-B20.PcbDoc   2025-04-09  07:47:07
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L6
+ASCII RoundHoles File : UBXH60-0001194_Rev C-RoundHoles.TXT
+ASCII SlotHoles File : UBXH60-0001194_Rev C-SlotHoles.TXT
+EIA File   : UBXH60-0001194_Rev C.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             5         PTH        1.60mm (0.06inch)
+T2      0.25mm (10mil)                                            Round             329       PTH        1173.72mm (46.21inch)
+T3      0.254mm (10mil)                                           Round             912       PTH        2213.39mm (87.14inch)
+T4      0.6mm (24mil)           +/-0.127mm (5mil)                 Slot              4         PTH        37.24mm (1.47inch)
+T5      1mm (39mil)                                               Round             6         PTH        27.45mm (1.08inch)
+T6      1.016mm (40mil)                                           Round             2         PTH        2.54mm (0.10inch)
+T7      3mm (118mil)                                              Round             4         PTH        294.39mm (11.59inch)
+T8      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1264
+
+Total Processing Time (hh:mm:ss) : 00:00:00

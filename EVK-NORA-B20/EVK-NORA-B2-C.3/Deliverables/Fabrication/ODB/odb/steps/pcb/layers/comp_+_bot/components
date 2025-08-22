@@ -1,0 +1,2207 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 45 56.18900116 22.23099948 270 N TP38 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 56.18900116 22.23099948 270 N 293 160 1
+#
+# CMP 1
+CMP 46 20.05000054 7.493 270 N TP126 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 20.05000054 7.493 270 N 0 41 1
+#
+# CMP 2
+CMP 45 46.02900116 22.23099948 270 N TP6 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 46.02900116 22.23099948 270 N 0 6 1
+#
+# CMP 3
+CMP 46 37.084 7.493 270 N TP2 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 37.084 7.493 270 N 0 7 1
+#
+# CMP 4
+CMP 46 21.82800054 7.493 270 N TP125 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 21.82800054 7.493 270 N 0 8 1
+#
+# CMP 5
+CMP 46 53.64900116 22.23099948 270 N TP7 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 53.64900116 22.23099948 270 N 0 9 1
+#
+# CMP 6
+CMP 46 48.56900116 22.23099948 270 N TP9 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 48.56900116 22.23099948 270 N 0 10 1
+#
+# CMP 7
+CMP 45 38.862 7.493 270 N TP3 TP10R ;0=1,1=0.4950
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 38.862 7.493 270 N 0 11 1
+#
+# CMP 8
+CMP 46 51.10900116 22.23099948 270 N TP8 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 51.10900116 22.23099948 270 N 0 12 1
+#
+# CMP 9
+CMP 46 40.94900116 22.23099948 270 N TP36 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 40.94900116 22.23099948 270 N 193 23 1
+#
+# CMP 10
+CMP 45 58.72900116 22.23099948 270 N TP44 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 58.72900116 22.23099948 270 N 293 148 1
+#
+# CMP 11
+CMP 46 1.39999974 14.40999912 180 N TP121 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 14.40999912 0 N 20 4 1
+#
+# CMP 12
+CMP 46 1.39999974 16.94999912 180 N TP119 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 16.94999912 0 N 21 4 1
+#
+# CMP 13
+CMP 46 1.39999974 19.48999912 180 N TP117 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 19.48999912 0 N 22 4 1
+#
+# CMP 14
+CMP 46 68.60999994 22.23099948 270 N TP28 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 68.60999994 22.23099948 270 N 147 38 1
+#
+# CMP 15
+CMP 46 71.14999994 22.23099948 270 N TP26 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 71.14999994 22.23099948 270 N 115 20 1
+#
+# CMP 16
+CMP 46 78.76999994 22.23099948 270 N TP27 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 78.76999994 22.23099948 270 N 215 15 1
+#
+# CMP 17
+CMP 46 76.22999994 22.23099948 270 N TP29 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 76.22999994 22.23099948 270 N 116 24 1
+#
+# CMP 18
+CMP 46 81.30999994 22.23099948 270 N TP31 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 81.30999994 22.23099948 270 N 114 19 1
+#
+# CMP 19
+CMP 46 73.68999994 22.23099948 270 N TP30 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 73.68999994 22.23099948 270 N 214 14 1
+#
+# CMP 20
+CMP 46 28.85000072 22.23099948 270 N TP43 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 28.85000072 22.23099948 270 N 149 42 1
+#
+# CMP 21
+CMP 46 31.39000072 22.23099948 270 N TP37 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 31.39000072 22.23099948 270 N 158 9 1
+#
+# CMP 22
+CMP 46 83.84999994 54.99999922 270 N TP24 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 83.84999994 54.99999922 270 N 0 13 1
+#
+# CMP 23
+CMP 46 86.38999994 54.99999922 270 N TP25 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 86.38999994 54.99999922 270 N 0 14 1
+#
+# CMP 24
+CMP 46 83.84999994 22.23099948 270 N TP42 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 83.84999994 22.23099948 270 N 113 20 1
+#
+# CMP 25
+CMP 46 90.39999954 42.34999912 270 N TP59 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 42.34999912 270 N 37 4 1
+#
+# CMP 26
+CMP 46 9.60000112 11.86999912 270 N TP124 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 11.86999912 270 N 213 4 1
+#
+# CMP 27
+CMP 46 1.39999974 11.89500034 270 N TP123 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 11.89500034 270 N 19 4 1
+#
+# CMP 28
+CMP 46 9.60000112 14.40999912 270 N TP122 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 14.40999912 270 N 212 4 1
+#
+# CMP 29
+CMP 46 9.60000112 16.94999912 270 N TP120 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 16.94999912 270 N 8 9 1
+#
+# CMP 30
+CMP 46 9.60000112 19.48999912 270 N TP118 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 19.48999912 270 N 7 10 1
+#
+# CMP 31
+CMP 46 9.60000112 22.02999912 270 N TP116 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 22.02999912 270 N 6 10 1
+#
+# CMP 32
+CMP 46 1.39999974 22.02999912 270 N TP115 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 22.02999912 270 N 23 4 1
+#
+# CMP 33
+CMP 46 9.60000112 27.10999912 270 N TP114 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 27.10999912 270 N 293 149 1
+#
+# CMP 34
+CMP 46 9.60000112 24.56999912 270 N TP113 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 24.56999912 270 N 5 10 1
+#
+# CMP 35
+CMP 46 1.39999974 24.5460012 270 N TP112 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 24.5460012 270 N 24 4 1
+#
+# CMP 36
+CMP 46 1.39999974 27.10999912 270 N TP111 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 27.10999912 270 N 25 4 1
+#
+# CMP 37
+CMP 46 9.60000112 29.64999912 270 N TP110 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 29.64999912 270 N 294 57 1
+#
+# CMP 38
+CMP 46 1.39999974 29.64999912 270 N TP109 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 29.64999912 270 N 26 4 1
+#
+# CMP 39
+CMP 46 1.39999974 60.12600116 180 N TP108 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 60.12600116 0 N 293 150 1
+#
+# CMP 40
+CMP 46 9.60000112 32.15600122 180 N TP107 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 32.15600122 0 N 251 20 1
+#
+# CMP 41
+CMP 46 1.39999974 32.18999912 180 N TP106 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 32.18999912 0 N 27 4 1
+#
+# CMP 42
+CMP 46 9.60000112 34.72999912 180 N TP105 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 34.72999912 0 N 203 19 1
+#
+# CMP 43
+CMP 46 9.60000112 37.26999912 180 N TP104 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 37.26999912 0 N 247 37 1
+#
+# CMP 44
+CMP 46 1.39999974 37.26999912 180 N TP103 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 37.26999912 0 N 28 4 1
+#
+# CMP 45
+CMP 46 9.60000112 39.80999912 180 N TP102 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 39.80999912 0 N 29 4 1
+#
+# CMP 46
+CMP 46 1.39999974 39.8550003 180 N TP101 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 39.8550003 0 N 30 4 1
+#
+# CMP 47
+CMP 46 9.60000112 42.31600122 180 N TP100 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 42.31600122 0 N 31 4 1
+#
+# CMP 48
+CMP 46 1.39999974 42.34999912 180 N TP99 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 42.34999912 0 N 32 4 1
+#
+# CMP 49
+CMP 46 9.60000112 44.88999912 180 N TP98 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 44.88999912 0 N 33 4 1
+#
+# CMP 50
+CMP 46 1.39999974 44.88999912 180 N TP97 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 44.88999912 0 N 258 25 1
+#
+# CMP 51
+CMP 46 9.60000112 49.90100002 270 N TP96 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 49.90100002 270 N 293 151 1
+#
+# CMP 52
+CMP 46 9.60000112 47.44699934 270 N TP95 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 47.44699934 270 N 34 4 1
+#
+# CMP 53
+CMP 46 1.39999974 47.42999912 270 N TP94 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 47.42999912 270 N 257 14 1
+#
+# CMP 54
+CMP 46 1.39999974 49.96999912 270 N TP93 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 49.96999912 270 N 48 8 1
+#
+# CMP 55
+CMP 46 9.60000112 52.51299886 270 N TP92 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 52.51299886 270 N 144 22 1
+#
+# CMP 56
+CMP 46 1.39999974 52.50999912 270 N TP91 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 52.50999912 270 N 49 8 1
+#
+# CMP 57
+CMP 46 9.60000112 55.04999912 270 N TP90 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 55.04999912 270 N 269 22 1
+#
+# CMP 58
+CMP 46 1.39999974 55.04999912 270 N TP89 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 55.04999912 270 N 145 14 1
+#
+# CMP 59
+CMP 46 1.39999974 34.72999912 270 N TP88 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 34.72999912 270 N 293 152 1
+#
+# CMP 60
+CMP 46 9.60000112 57.5850004 270 N TP87 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 57.5850004 270 N 275 20 1
+#
+# CMP 61
+CMP 46 1.39999974 57.55600122 270 N TP86 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 1.39999974 57.55600122 270 N 146 14 1
+#
+# CMP 62
+CMP 46 9.60000112 60.12999912 270 N TP85 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 9.60000112 60.12999912 270 N 249 18 1
+#
+# CMP 63
+CMP 46 98.5749997 11.89500034 270 N TP84 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.5749997 11.89500034 270 N 76 16 1
+#
+# CMP 64
+CMP 46 90.39999954 11.86999912 270 N TP83 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 11.86999912 270 N 277 6 1
+#
+# CMP 65
+CMP 46 98.60000092 14.36600124 270 N TP82 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 14.36600124 270 N 75 14 1
+#
+# CMP 66
+CMP 46 90.39999954 14.43999906 270 N TP81 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 14.43999906 270 N 147 39 1
+#
+# CMP 67
+CMP 46 98.60000092 16.94200066 270 N TP80 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 16.94200066 270 N 273 18 1
+#
+# CMP 68
+CMP 46 90.39999954 16.94999912 270 N TP79 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 16.94999912 270 N 286 3 1
+#
+# CMP 69
+CMP 46 98.60000092 19.48999912 270 N TP78 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 19.48999912 270 N 271 20 1
+#
+# CMP 70
+CMP 46 90.39999954 19.48999912 270 N TP77 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 19.48999912 270 N 79 17 1
+#
+# CMP 71
+CMP 46 98.60000092 22.098 270 N TP76 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 22.098 270 N 262 31 1
+#
+# CMP 72
+CMP 46 90.39999954 22.02999912 270 N TP75 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 22.02999912 270 N 119 12 1
+#
+# CMP 73
+CMP 46 98.60000092 27.1739995 270 N TP74 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 27.1739995 270 N 293 153 1
+#
+# CMP 74
+CMP 46 98.60000092 24.53600122 270 N TP73 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 24.53600122 270 N 54 20 1
+#
+# CMP 75
+CMP 46 90.39999954 24.5650004 270 N TP72 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 24.5650004 270 N 74 14 1
+#
+# CMP 76
+CMP 46 90.39999954 27.10999912 270 N TP71 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 27.10999912 270 N 73 14 1
+#
+# CMP 77
+CMP 46 98.60000092 29.59200076 270 N TP70 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 29.59200076 270 N 245 19 1
+#
+# CMP 78
+CMP 46 90.39999954 29.64999912 270 N TP69 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 29.64999912 270 N 120 7 1
+#
+# CMP 79
+CMP 46 90.39999954 34.72999912 270 N TP68 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 34.72999912 270 N 293 154 1
+#
+# CMP 80
+CMP 46 98.60000092 32.18999912 270 N TP67 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 32.18999912 270 N 101 27 1
+#
+# CMP 81
+CMP 46 90.39999954 32.18999912 270 N TP66 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 32.18999912 270 N 35 4 1
+#
+# CMP 82
+CMP 46 98.60000092 34.72999912 270 N TP65 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 34.72999912 270 N 254 16 1
+#
+# CMP 83
+CMP 46 98.60000092 37.26999912 270 N TP64 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 37.26999912 270 N 255 16 1
+#
+# CMP 84
+CMP 46 90.39999954 37.2460012 270 N TP63 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 37.2460012 270 N 294 58 1
+#
+# CMP 85
+CMP 46 98.60000092 39.84200058 270 N TP62 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 39.84200058 270 N 252 17 1
+#
+# CMP 86
+CMP 46 90.39999954 39.80999912 270 N TP61 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 39.80999912 270 N 36 4 1
+#
+# CMP 87
+CMP 46 98.60000092 42.34999912 270 N TP60 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 42.34999912 270 N 253 18 1
+#
+# CMP 88
+CMP 46 98.60000092 44.88999912 270 N TP58 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 44.88999912 270 N 265 16 1
+#
+# CMP 89
+CMP 46 90.39999954 44.87800016 270 N TP57 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 44.87800016 270 N 270 19 1
+#
+# CMP 90
+CMP 46 98.60000092 49.96999912 270 N TP56 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 49.96999912 270 N 293 155 1
+#
+# CMP 91
+CMP 46 98.60000092 47.42999912 270 N TP55 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 47.42999912 270 N 137 28 1
+#
+# CMP 92
+CMP 46 90.39999954 47.42999912 270 N TP54 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 47.42999912 270 N 88 24 1
+#
+# CMP 93
+CMP 46 90.39999954 49.96999912 270 N TP53 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 49.96999912 270 N 100 16 1
+#
+# CMP 94
+CMP 46 98.60000092 52.50999912 270 N TP52 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 52.50999912 270 N 55 8 1
+#
+# CMP 95
+CMP 46 90.39999954 52.50999912 270 N TP51 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 52.50999912 270 N 56 7 1
+#
+# CMP 96
+CMP 46 98.60000092 55.04999912 270 N TP50 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 55.04999912 270 N 57 8 1
+#
+# CMP 97
+CMP 46 90.39999954 55.04999912 270 N TP49 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 55.04999912 270 N 58 7 1
+#
+# CMP 98
+CMP 46 90.39999954 60.12999912 270 N TP48 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 60.12999912 270 N 293 156 1
+#
+# CMP 99
+CMP 46 98.60000092 57.58999912 270 N TP47 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 57.58999912 270 N 59 8 1
+#
+# CMP 100
+CMP 46 90.39999954 57.58999912 270 N TP46 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 90.39999954 57.58999912 270 N 60 8 1
+#
+# CMP 101
+CMP 46 98.60000092 60.12999912 270 N TP45 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 98.60000092 60.12999912 270 N 38 4 1
+#
+# CMP 102
+CMP 43 16.58899908 34.77299878 180 N J10 TC2050-IDC-NL ;0=1,1=0.4950
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2050-IDC-NL'
+PRP Part_Number 'TC2050-IDC-NL'
+PRP Size '6.1mm x 9.9mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 16.58899908 34.77299878 0 N 149 43 1
+TOP 1 17.85899908 34.77299878 0 N 94 5 2
+TOP 2 19.12899908 34.77299878 0 N 293 157 3
+TOP 3 20.39899908 34.77299878 0 N 93 5 4
+TOP 4 21.66899908 34.77299878 0 N 50 5 5
+TOP 5 21.66899908 33.50299878 0 N 0 38 6
+TOP 6 20.39899908 33.50299878 0 N 0 37 7
+TOP 7 19.12899908 33.50299878 0 N 0 36 8
+TOP 8 17.85899908 33.50299878 0 N 0 35 9
+TOP 9 16.58899908 33.50299878 0 N 89 6 10
+TOP 10 15.31899908 34.13799878 0 N 0 141 A
+TOP 11 22.93899908 35.15399878 0 N 0 140 B
+TOP 12 22.93899908 33.12199878 0 N 0 139 C
+#
+# CMP 103
+CMP 45 43.48900116 22.23099948 270 N TP1 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2015-02-01'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2015-02-05'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 43.48900116 22.23099948 270 N 200 7 1
+#
+# CMP 104
+CMP 46 18.69000072 54.99999922 270 N TP13 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 18.69000072 54.99999922 270 N 0 15 1
+#
+# CMP 105
+CMP 46 16.15000072 54.99999922 270 N TP11 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 16.15000072 54.99999922 270 N 0 16 1
+#
+# CMP 106
+CMP 46 13.61000072 54.99999922 0 N TP10 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 13.61000072 54.99999922 180 N 0 17 1
+#
+# CMP 107
+CMP 46 86.38999994 22.23099948 270 N TP39 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 86.38999994 22.23099948 270 N 0 18 1
+#
+# CMP 108
+CMP 46 23.77000072 22.23099948 270 N TP33 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 23.77000072 22.23099948 270 N 0 19 1
+#
+# CMP 109
+CMP 46 16.15000072 22.23099948 270 N TP40 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 16.15000072 22.23099948 270 N 0 20 1
+#
+# CMP 110
+CMP 46 26.31000072 22.23099948 270 N TP41 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 26.31000072 22.23099948 270 N 0 21 1
+#
+# CMP 111
+CMP 46 21.23000072 22.23099948 270 N TP35 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 21.23000072 22.23099948 270 N 0 22 1
+#
+# CMP 112
+CMP 46 71.14999994 54.99999922 270 N TP19 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 71.14999994 54.99999922 270 N 0 23 1
+#
+# CMP 113
+CMP 46 73.68999994 54.99999922 270 N TP21 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 73.68999994 54.99999922 270 N 0 24 1
+#
+# CMP 114
+CMP 46 18.69000072 22.23099948 270 N TP32 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 18.69000072 22.23099948 270 N 0 25 1
+#
+# CMP 115
+CMP 46 13.61000072 22.23099948 270 N TP34 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 13.61000072 22.23099948 270 N 0 26 1
+#
+# CMP 116
+CMP 46 81.30999994 54.99999922 270 N TP23 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 81.30999994 54.99999922 270 N 0 27 1
+#
+# CMP 117
+CMP 46 78.76999994 54.99999922 270 N TP20 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 78.76999994 54.99999922 270 N 0 28 1
+#
+# CMP 118
+CMP 46 76.22999994 54.99999922 270 N TP22 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 76.22999994 54.99999922 270 N 0 29 1
+#
+# CMP 119
+CMP 46 68.60999994 54.99999922 270 N TP18 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 68.60999994 54.99999922 270 N 0 30 1
+#
+# CMP 120
+CMP 46 31.39000072 54.99999922 270 N TP16 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 31.39000072 54.99999922 270 N 287 13 1
+#
+# CMP 121
+CMP 46 28.85000072 54.99999922 270 N TP17 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 28.85000072 54.99999922 270 N 0 31 1
+#
+# CMP 122
+CMP 46 26.31000072 54.99999922 270 N TP14 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 26.31000072 54.99999922 270 N 0 32 1
+#
+# CMP 123
+CMP 46 23.77000072 54.99999922 270 N TP15 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 23.77000072 54.99999922 270 N 0 33 1
+#
+# CMP 124
+CMP 46 21.23000072 54.99999922 270 N TP12 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 21.23000072 54.99999922 270 N 0 34 1
+#
+# CMP 125
+CMP 46 62.992 7.493 270 N TP5 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 62.992 7.493 270 N 288 11 1
+#
+# CMP 126
+CMP 46 61.214 7.493 270 N TP4 TP10R ;0=1,1=0.0000
+PRP Added_By 'Jeremy D'
+PRP Added_Date '2/1/2015'
+PRP Checked_By 'Paul B'
+PRP Checked_Date '2/5/2015'
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'TP10R'
+PRP Size '1.0mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 61.214 7.493 270 N 289 8 1
+#
+# CMP 127
+CMP 44 16.6140003 43.63699934 180 N J13 TC2050-IDC-NL ;0=1,1=0.4950
+PRP Added_By 'Paul B'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2050-IDC-NL'
+PRP Part_Number 'TC2050-IDC-NL'
+PRP Size '6.1mm x 9.9mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 16.6140003 43.63699934 0 N 147 40 1
+TOP 1 17.8840003 43.63699934 0 N 92 3 2
+TOP 2 19.1540003 43.63699934 0 N 293 158 3
+TOP 3 20.4240003 43.63699934 0 N 91 4 4
+TOP 4 21.6940003 43.63699934 0 N 50 6 5
+TOP 5 21.6940003 42.36699934 0 N 137 29 6
+TOP 6 20.4240003 42.36699934 0 N 0 39 7
+TOP 7 19.1540003 42.36699934 0 N 0 40 8
+TOP 8 17.8840003 42.36699934 0 N 293 159 9
+TOP 9 16.6140003 42.36699934 0 N 90 4 10
+TOP 10 15.3440003 43.00199934 0 N 0 142 A
+TOP 11 22.9640003 44.01799934 0 N 0 143 B
+TOP 12 22.9640003 41.98599934 0 N 0 144 C
+#
